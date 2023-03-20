@@ -1,6 +1,5 @@
 //This trial about just make some functions constructions, have not a main!
 
-#include <stdio.h>
 
 int get_abs(int val) //about absolute value
 {
@@ -8,13 +7,4 @@ int get_abs(int val) //about absolute value
         return val;
 
     return -val;
-}
-
-int max2(int a, int b) //about max value
-{
-    if (a>b)
-        return a;
-
-    return b;
-
 }
