@@ -10,7 +10,7 @@ int get_abs(int val) //about absolute value
     return -val;
 }
 
-int max2(int a, int b) //about max value
+int max(int a, int b) //about max value
 {
     if (a>b)
         return a;
