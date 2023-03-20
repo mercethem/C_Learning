@@ -1,4 +1,4 @@
-//This trial about just make a function construction, have not a main!
+//This trial about just make some functions constructions, have not a main!
 
 #include <stdio.h>
 
