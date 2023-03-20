@@ -1,0 +1,15 @@
+# ninja log v5
+1	47	7010315549666757	CMakeFiles/static_automatic_variables.dir/main.c.obj	d21d6a76686b758d
+48	99	7010315550155423	static_automatic_variables.exe	df20f0aaba2ee9af
+1	47	7010316952590721	CMakeFiles/static_automatic_variables.dir/main.c.obj	73730ab662233e04
+48	99	7010316953069336	static_automatic_variables.exe	df20f0aaba2ee9af
+1	44	7010317780221596	CMakeFiles/static_automatic_variables.dir/main.c.obj	73730ab662233e04
+44	102	7010317780769764	static_automatic_variables.exe	df20f0aaba2ee9af
+0	45	7010317890010533	CMakeFiles/static_automatic_variables.dir/main.c.obj	73730ab662233e04
+46	98	7010317890498896	static_automatic_variables.exe	df20f0aaba2ee9af
+1	43	7010318018904205	CMakeFiles/static_automatic_variables.dir/main.c.obj	73730ab662233e04
+45	96	7010318019392887	static_automatic_variables.exe	df20f0aaba2ee9af
+1	46	7010318056058227	CMakeFiles/static_automatic_variables.dir/main.c.obj	73730ab662233e04
+46	99	7010318056566572	static_automatic_variables.exe	df20f0aaba2ee9af
+1	46	7010318084237188	CMakeFiles/static_automatic_variables.dir/main.c.obj	73730ab662233e04
+46	100	7010318084749893	static_automatic_variables.exe	df20f0aaba2ee9af
