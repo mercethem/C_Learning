@@ -1,0 +1,3 @@
+E:/C/C_Learning/function_of_max2/cmake-build-debug/CMakeFiles/function_of_max2.dir
+E:/C/C_Learning/function_of_max2/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/C/C_Learning/function_of_max2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
