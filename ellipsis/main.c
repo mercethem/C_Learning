@@ -4,6 +4,7 @@
 int func(int x, int y, ...)
 {
 ///exp
+
 }
 
 int main() {
