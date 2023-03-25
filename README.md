@@ -1,3 +1,3 @@
 # C_Learning
 
-This repository is about C learning trials
+This repository is about C learning
