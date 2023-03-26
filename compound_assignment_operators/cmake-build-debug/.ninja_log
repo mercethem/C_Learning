@@ -1,0 +1,11 @@
+# ninja log v5
+0	51	7015671622150393	CMakeFiles/compound_assignment_operators.dir/main.c.obj	d7b337bf34d5b6c4
+52	120	7015671622800394	compound_assignment_operators.exe	64edd17562812d21
+1	53	7015684710412319	CMakeFiles/compound_assignment_operators.dir/main.c.obj	d7b337bf34d5b6c4
+54	108	7015684710931055	compound_assignment_operators.exe	64edd17562812d21
+1	48	7015684821359121	CMakeFiles/compound_assignment_operators.dir/main.c.obj	d7b337bf34d5b6c4
+48	101	7015684821866405	compound_assignment_operators.exe	64edd17562812d21
+1	45	7015685087061542	CMakeFiles/compound_assignment_operators.dir/main.c.obj	d7b337bf34d5b6c4
+45	99	7015685087572496	compound_assignment_operators.exe	64edd17562812d21
+1	51	7015685152432041	CMakeFiles/compound_assignment_operators.dir/main.c.obj	d7b337bf34d5b6c4
+52	112	7015685153012681	compound_assignment_operators.exe	64edd17562812d21
