@@ -1,3 +1,5 @@
+//About get middle term
+
 #include <stdio.h>
 
 int getmid(int a, int b, int c)
@@ -9,8 +11,6 @@ int getmid(int a, int b, int c)
 
     return c;
 }
-
-
 
 int main()
 {
