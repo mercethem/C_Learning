@@ -53,7 +53,8 @@
  */
 
 
-int main() {
+int main()
+{
     int x;
     printf("Please enter a integer :");
     scanf("%d", &x);
