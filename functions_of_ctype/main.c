@@ -16,6 +16,70 @@
 
  */
 int main() {
-    printf("Hello, World!\n");
+    int c;
+
+    printf("Please enter a character :");
+    c = getchar();
+
+    printf("%d code is that your character\n",c);
+    if (isupper(c))
+        printf("uppercase\n");
+    else
+        printf("not uppercase\n");
+
+    if (islower(c))
+        printf("lowercase\n");
+    else
+        printf("not lowercase\n");
+
+    if (isalpha(c))
+        printf("alphabetic character\n");
+    else
+        printf("not alphabetic character\n");
+
+    if (isdigit(c))
+        printf("digit character\n");
+    else
+        printf("not digit character\n");
+
+    if (isalnum(c))
+        printf("alphanumeric character\n");
+    else
+        printf("not alphanumeric character\n");
+
+    if (isxdigit(c))
+        printf("hexadecimal digit character\n");
+    else
+        printf("not hexadecimal digit character\n");
+
+    if (isspace(c))
+        printf("space character\n");
+    else
+        printf("not space character\n");
+
+    if (ispunct(c))
+        printf("punctuation character\n");
+    else
+        printf("not punctuation character\n");
+
+    if (isprint(c))
+        printf("print character\n");
+    else
+        printf("not print character\n");
+
+    if (isgraph(c))
+        printf("graph character\n");
+    else
+        printf("not graph character\n");
+
+    if (isblank(c))
+        printf("blank character\n");
+    else
+        printf("not blank character\n");
+
+    if (iscntrl(c))
+        printf("control character\n");
+    else
+        printf("not control character\n");
     return 0;
 }
