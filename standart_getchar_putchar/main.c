@@ -14,6 +14,15 @@ int main() {
     c = getchar();
     printf("c = %d\n",c);
 
+    for (int i = 0; i < 26; ++i) {
+        putchar(i + 'A');
+    }
+    for (int i = 0; i < 26; ++i) {
+        putchar(i + 'a');
+    }
+    for (int i = 0; i < 10; ++i) {
+        putchar(i + '0');
+    }
 
 
 
