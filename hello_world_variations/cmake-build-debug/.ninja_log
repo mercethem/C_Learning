@@ -1,0 +1,7 @@
+# ninja log v5
+0	54	7017887509726169	CMakeFiles/hello_world_variations.dir/main.c.obj	c0b2ba19cdb6561e
+54	223	7017887511385407	hello_world_variations.exe	e1f2732b381daf2b
+1	48	7017887959075432	CMakeFiles/hello_world_variations.dir/main.c.obj	c0b2ba19cdb6561e
+48	102	7017887959575428	hello_world_variations.exe	e1f2732b381daf2b
+0	49	7017888225872821	CMakeFiles/hello_world_variations.dir/main.c.obj	c0b2ba19cdb6561e
+49	106	7017888226402912	hello_world_variations.exe	e1f2732b381daf2b

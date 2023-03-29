@@ -1,0 +1,9 @@
+# ninja log v5
+0	51	7017893537941749	CMakeFiles/standart_getchar_putchar.dir/main.c.obj	f8792a0388e79b4c
+51	114	7017893538541803	standart_getchar_putchar.exe	4eb30299f0ca2d6
+1	47	7017893613364369	CMakeFiles/standart_getchar_putchar.dir/main.c.obj	f8792a0388e79b4c
+47	101	7017893613887144	standart_getchar_putchar.exe	4eb30299f0ca2d6
+1	47	7017894258368303	CMakeFiles/standart_getchar_putchar.dir/main.c.obj	f8792a0388e79b4c
+47	100	7017894258879249	standart_getchar_putchar.exe	4eb30299f0ca2d6
+1	51	7017980065543556	CMakeFiles/standart_getchar_putchar.dir/main.c.obj	f8792a0388e79b4c
+51	109	7017980066093601	standart_getchar_putchar.exe	4eb30299f0ca2d6
