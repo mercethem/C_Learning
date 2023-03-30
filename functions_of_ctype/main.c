@@ -13,7 +13,8 @@
  int isgraph(int c); //  have not got ' '
  int isblank(int c); // ' ' or '\t' ?
  int iscntrl(int c); // (invisible char ? ASCII 1, 2 ,3, ..., 32 and 127)
-
+ int tolower(int c); //uppercase to lowercase
+ int toupper(int c); //lowercase to uppercase
  */
 int main() {
     int c;
