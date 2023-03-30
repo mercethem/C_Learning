@@ -24,6 +24,5 @@ int main() {
     printf("Your value is %d and your range is %d-%d\n", val, low, high);
     printf("Clamp value result is %d for %d", clamp(val, low, high), val);
 
-
     return 0;
 }
