@@ -82,5 +82,7 @@ int main() {
         printf("control character\n");
     else
         printf("not control character\n");
+    printf("%c ---> %c\n",c , toupper(c));
+    printf("%c ---> %c\n",c , tolower(c));
     return 0;
 }
