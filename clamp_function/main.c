@@ -1,9 +1,4 @@
 #include <stdio.h>
-/**
-
-
-
- */
 
 int clamp(int val, int low, int high){
     int result = 0;
@@ -13,7 +8,6 @@ int clamp(int val, int low, int high){
         result = val;
     else if(val >= high)
         result = high;
-
     return result;
 }
 
@@ -29,9 +23,6 @@ int main() {
 
     printf("Your value is %d and your range is %d-%d\n", val, low, high);
     printf("Clamp value result is %d for %d", clamp(val, low, high), val);
-
-
-
 
 
     return 0;
