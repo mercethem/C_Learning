@@ -24,11 +24,27 @@ int ndigit(int val)
     return digit_count;
 
 }
-int get_char(int ch) //Another function in while loop
+
+int sum_digit(int ival)
 {
-    while((ch = getchar()) != '\n')
-        printf("%c %d\n", ch, ch);
-    return ch;
+    int sum_digit = 0;
+    while (ival !=0) {
+        sum_digit += ival % 10;
+        ival /= 10;
+    }
+
+    return sum_digit;
+}
+
+int rdigit (int ival)
+{
+    int retval = 0;
+
+    while (ival){
+        retval = retval * 10 + ival % 10;
+        ival /= 10;
+    }
+    return retval;
 }
 
 int main() {
@@ -37,5 +53,7 @@ int main() {
     scanf("%d", &ival);
 
     printf("Your integer is %d and your integer digit is %d\n", ival, ndigit(ival));
+    printf("%d is your integer and sum digits is %d\n", ival, sum_digit(ival));
+    printf("%d is your integer and your digit's reverse is %d\n", ival, rdigit(ival));
     return 0;
 }
