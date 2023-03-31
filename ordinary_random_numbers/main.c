@@ -15,7 +15,7 @@ int main()
 
         if (c == 'n')
             break;
-        ival = (rand() % rand() ? rand() : -rand()) * rand();
+        ival = (rand() % (rand() % rand()) ? rand() : rand()) * rand();
         printf("%d\n", ival);
 
     }
