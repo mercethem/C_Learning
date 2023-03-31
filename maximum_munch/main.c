@@ -5,7 +5,7 @@
  Maximum munch rule is about tokenizing.
 
  while ( n --> 0) {
-    printf("expr.\n");      ---> That is joke!
+    printf("expr.\n");      ---> That is joke! :)
  }
 
  */
