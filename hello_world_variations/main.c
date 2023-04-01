@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main(void)
+{
     printf("Hello, World!\n");
     if(printf("Hello, World!\n")){}
     while(!printf("Hello, World!\n")){}
