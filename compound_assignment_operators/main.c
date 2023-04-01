@@ -21,7 +21,8 @@ int foo()
 {
     return 12;
 }
-int main() {
+int main()
+{
     int x, y, z, t;
     x = y = z = t = foo();
     printf("x = %d\ny = %d\nz = %d\nt = %d\nfoo() = %d\n", x, y, z, t, foo());
