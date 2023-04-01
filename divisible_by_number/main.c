@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
     int c;
     int sum = 0;
 
@@ -12,5 +13,6 @@ int main() {
         printf("Yes,  divide by three.");
     else
         printf("No, %d don't divide by three.");
+
     return 0;
 }
