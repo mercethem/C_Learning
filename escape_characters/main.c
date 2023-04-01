@@ -1,7 +1,8 @@
 //About escape sequences
 #include <stdio.h>
 
-int main() {
+int main()
+{
 
     printf("alert (bell)        %d\n", '\a');
     printf("horizontal tab      %d\n", '\t');
