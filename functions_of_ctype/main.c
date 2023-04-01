@@ -16,7 +16,8 @@
  int tolower(int c); //uppercase to lowercase
  int toupper(int c); //lowercase to uppercase
  */
-int main() {
+int main()
+{
     int c;
 
     printf("Please enter a character :");
