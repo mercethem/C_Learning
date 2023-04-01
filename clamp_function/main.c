@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int clamp(int val, int low, int high){
+int clamp(int val, int low, int high)
+{
     int result = 0;
     if (val <= low)
         result = low;
@@ -11,7 +12,8 @@ int clamp(int val, int low, int high){
     return result;
 }
 
-int main() {
+int main()
+{
 
     int low, high;
     int val;
