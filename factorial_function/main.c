@@ -9,7 +9,7 @@ int factorial (int n)
 
     return result;
 }
-
+//Recursive factorial function
 int factorial_2 (int n)
 {
     return n < 2 ? 1 : n * factorial_2(n - 1);
