@@ -1,0 +1,17 @@
+# ninja log v5
+1	51	7021452536168195	CMakeFiles/factorial_function.dir/main.c.obj	bc1a97daad92b14b
+53	114	7021452536777104	factorial_function.exe	743fe7e352a9be
+2	49	7021453491411176	CMakeFiles/factorial_function.dir/main.c.obj	bc1a97daad92b14b
+49	103	7021453491919808	factorial_function.exe	743fe7e352a9be
+1	50	7021453738786062	CMakeFiles/factorial_function.dir/main.c.obj	bc1a97daad92b14b
+51	115	7021453739392111	factorial_function.exe	743fe7e352a9be
+1	45	7021453836522042	CMakeFiles/factorial_function.dir/main.c.obj	bc1a97daad92b14b
+45	101	7021453837051221	factorial_function.exe	743fe7e352a9be
+1	44	7021454375515005	CMakeFiles/factorial_function.dir/main.c.obj	bc1a97daad92b14b
+44	98	7021454376013333	factorial_function.exe	743fe7e352a9be
+2	50	7021454650073882	CMakeFiles/factorial_function.dir/main.c.obj	bc1a97daad92b14b
+50	109	7021454650632013	factorial_function.exe	743fe7e352a9be
+2	49	7021456502573253	CMakeFiles/factorial_function.dir/main.c.obj	bc1a97daad92b14b
+50	105	7021456503099586	factorial_function.exe	743fe7e352a9be
+1	46	7021457269265356	CMakeFiles/factorial_function.dir/main.c.obj	bc1a97daad92b14b
+46	100	7021457269774037	factorial_function.exe	743fe7e352a9be
