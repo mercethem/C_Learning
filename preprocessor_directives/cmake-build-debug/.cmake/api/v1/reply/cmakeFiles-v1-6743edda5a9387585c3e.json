@@ -429,8 +429,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "E:/C/C_Learning/print_prime_factors/cmake-build-debug",
-		"source" : "E:/C/C_Learning/print_prime_factors"
+		"build" : "E:/C/C_Learning/preprocessor_directives/cmake-build-debug",
+		"source" : "E:/C/C_Learning/preprocessor_directives"
 	},
 	"version" : 
 	{
