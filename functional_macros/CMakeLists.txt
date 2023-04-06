@@ -3,4 +3,6 @@ project(functional_macros C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(functional_macros main.c)
+add_executable(functional_macros main.c nutility.h)
+
+

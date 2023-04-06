@@ -1,7 +1,7 @@
 //This functional macros practical and reduces to cost. Generally uses one-liner functions
 
-#define         max2(a, b)      ((a) > (b) ? (a) : (b))
 #include <stdio.h>
+#include "nutility.h"
 
 int main() {
 
