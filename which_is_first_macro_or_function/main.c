@@ -1,4 +1,4 @@
-//Macro uses because preprocessor works first and look up rules!
+//Macro works because preprocessor works first not compiler and look up rules!
 
 #include <stdio.h>
 
