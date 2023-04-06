@@ -1,4 +1,5 @@
 
+
 /**
 preprocessor directives
 
@@ -6,8 +7,9 @@ preprocessor directives
  "..." ---> Our creates or 3th library headers. Preprocessor searches source directory
 
  # (null directive)
- #include
- #define
+ #include   ---> notifications of functions
+ #define    ---> for macros(object-like macro[find and replace]{symbolic macro, manifest macro}, function-like macro)
+                 macros uses ALL_CAPS
  #undef
  #if
  #else
