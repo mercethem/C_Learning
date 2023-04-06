@@ -1,0 +1,7 @@
+# ninja log v5
+0	50	7024891288674130	CMakeFiles/functional_macros.dir/main.c.obj	90ec50499980d07c
+51	111	7024891289244974	functional_macros.exe	77dd4cfb7d9721aa
+1	46	7024892034922968	CMakeFiles/functional_macros.dir/main.c.obj	90ec50499980d07c
+46	99	7024892035441926	functional_macros.exe	77dd4cfb7d9721aa
+1	45	7024892826138432	CMakeFiles/functional_macros.dir/main.c.obj	90ec50499980d07c
+45	102	7024892826686509	functional_macros.exe	77dd4cfb7d9721aa
