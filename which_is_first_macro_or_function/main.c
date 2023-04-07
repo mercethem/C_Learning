@@ -1,5 +1,8 @@
 //Macro works because preprocessor works first not compiler and look up rules!
 
+//!!!!!Macros are faster than functions but functions use more storage than macros.!!!!!
+//Macros are type independent
+
 #include <stdio.h>
 
 int square(int x)
