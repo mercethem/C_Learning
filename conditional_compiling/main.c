@@ -36,7 +36,8 @@
 #endif
 
 
-int main() {
+int main()
+{
     number1;
     printf("Hello, World!\n");
     return 0;
