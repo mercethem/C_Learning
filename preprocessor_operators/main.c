@@ -6,8 +6,10 @@
     preprocessor operators are {#, ##, defined}
     #   ---> Stringification operator: Unary prefix preprocessor changed like #x ---> "x"
     ##  ---> Token-pasting operator: Binary fix preprocessor changed like x##y ---> xy
-    define ---> #define  PUBLIC/NODISCARD     ---> preprocessor deletes to PUBLIC
-    but define is logic uni-prefix logic operator
+    defined --->  Logic uni-prefix logic operator
+
+    #define  PUBLIC/NODISCARD     ---> preprocessor deletes to PUBLIC
+
     (That technic uses any programmer want to read this code easily so for semantic)
  */
 
