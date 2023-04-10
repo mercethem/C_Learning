@@ -17,7 +17,7 @@
 #if ME > 10
     #include <stdlib.h>
     int number1 = 0;
-#ifdef KM
+#if defined KM && defined CM  //defined is logic preprocessor operator
     int number2 = 1000;
 #else
     int x = 10;
