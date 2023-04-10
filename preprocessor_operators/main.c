@@ -7,6 +7,7 @@
     #   ---> Stringification operator: Unary prefix preprocessor changed like #x ---> "x"
     ##  ---> Token-pasting operator: Binary fix preprocessor changed like x##y ---> xy
     define ---> #define  PUBLIC/NODISCARD     ---> preprocessor deletes to PUBLIC
+    but define is logic uni-prefix logic operator
     (That technic uses any programmer want to read this code easily so for semantic)
  */
 
