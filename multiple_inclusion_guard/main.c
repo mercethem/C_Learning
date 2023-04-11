@@ -1,5 +1,4 @@
-#define KTM
-#undef KTM
+
 #ifndef MACRO_H
 #define MACRO_H
 
