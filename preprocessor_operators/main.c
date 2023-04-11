@@ -3,14 +3,15 @@
 // I am studying for learn to them.(07.04.2023)
 
 /**
-    preprocessor operators are {#, ##, defined}
+    preprocessor operators are {#, ##, defined} //REMEMBER Preprocessor do not use name look up or scope
     #   ---> Stringification operator: Unary prefix preprocessor changed like #x ---> "x"
     ##  ---> Token-pasting operator: Binary fix preprocessor changed like x##y ---> xy
     defined --->  Logic uni-prefix logic operator
 
     #define  PUBLIC/NODISCARD     ---> preprocessor deletes to PUBLIC
-
+    #undefine // opposite to define!
     (That technic uses any programmer want to read this code easily so for semantic)
+
  */
 
 #include <stdio.h>
