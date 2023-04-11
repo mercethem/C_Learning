@@ -7,8 +7,6 @@
  __STDC__ //C compilers always defines. (like C++ __cplusplus)
  __func__ //Replace to what that function name it is ? (String literal)
 
-
-
  */
 #ifdef __STDC__
     int x = 1;
@@ -23,7 +21,6 @@ int main()
     printf("%s\n",__TIME__);
     printf("%s\n",__func__);
     printf("%d\n",x);
-
 }
 
 
