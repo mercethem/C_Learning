@@ -1,4 +1,5 @@
-
+#define KTM
+#undef KTM
 #ifndef MACRO_H
 #define MACRO_H
 
@@ -23,6 +24,7 @@ int function(int)
  */
 
 #include <stdio.h>
+
 
 int main() {
     printf("Hello, World!\n");
