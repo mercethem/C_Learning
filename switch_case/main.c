@@ -7,7 +7,7 @@ int main()
     printf("Please enter a day (1-7) :");
     scanf("%d", &day);
 
-    switch (day) {
+    switch (day) {  //Sometimes uses return value of a functions
         case 1:
         case 2:
         case 3:
