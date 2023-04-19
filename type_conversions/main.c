@@ -15,6 +15,12 @@ K
     but there is not UB in unsigned types because they are use modular math
     for example = 1000 * 1000 ---> UB but 1000 * 1000u --->  1_000_000 % 65535
     ch = ival; ---> is NOT UB but that is not true way to use, true way is ---> ival = ch; because of Data Loss!!!
+    and if real number changed to integer and want to print that is a UNDEFINED BEHAVIOR
+
+    (20 > 10 ? 10 : 3.) ---> double because this conditional part is type conversion
+
+
+
 
     explicit type conversion (type-cast operator)   --->
 
@@ -35,7 +41,4 @@ int main() {
     scanf("%d", &a, &b);
     printf("%d",a + b);
 
-    long long g = 76234;
-    int h;
-    y = x;
 }
