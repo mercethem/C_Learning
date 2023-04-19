@@ -12,7 +12,9 @@ K
     type ranks ===> long double > double > float > long long > long > int (Attention: same type --> signed = unsigned)
 
     OVERFLOW FOR INTEGER IS UNDEFINED BEHAVIOR
-
+    but there is not UB in unsigned types because they are use modular math
+    for example = 1000 * 1000 ---> UB but 1000 * 1000u --->  1_000_000 % 65535
+    ch = ival; ---> is NOT UB but that is not true way to use, true way is ---> ival = ch; because of Data Loss!!!
 
     explicit type conversion (type-cast operator)   --->
 
@@ -32,4 +34,8 @@ int main() {
     printf("Please enter two integer :\n");
     scanf("%d", &a, &b);
     printf("%d",a + b);
+
+    long long g = 76234;
+    int h;
+    y = x;
 }
