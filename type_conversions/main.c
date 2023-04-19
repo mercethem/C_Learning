@@ -17,12 +17,11 @@ K
     ch = ival; ---> is NOT UB but that is not true way to use, true way is ---> ival = ch; because of Data Loss!!!
     and if real number changed to integer and want to print that is a UNDEFINED BEHAVIOR
 
-    (20 > 10 ? 10 : 3.) ---> double because this conditional part is type conversion
+    (20 > 10 ? 10 : 3.) ---> result is double because this conditional 2nd and 3rd conditions do type conversions
 
 
+    explicit type conversion (type-cast operator) ---> (type) exp. ===> (int)dval/ival  programmer uses that for intent
 
-
-    explicit type conversion (type-cast operator)   --->
 
 
 
