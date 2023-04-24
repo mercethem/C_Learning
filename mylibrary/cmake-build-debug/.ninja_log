@@ -19,3 +19,6 @@
 3	48	7035315340814483	CMakeFiles/mylibrary.dir/mylibrary.c.obj	85cbef64599eb5c9
 0	48	7035315340814483	CMakeFiles/mylibrary.dir/main.c.obj	c5deca2deedeb6a6
 48	108	7035315341375041	mylibrary.exe	34b36def6ae9608c
+1	59	7040318481187740	CMakeFiles/mylibrary.dir/main.c.obj	c5deca2deedeb6a6
+6	60	7040318481197742	CMakeFiles/mylibrary.dir/mylibrary.c.obj	85cbef64599eb5c9
+60	126	7040318481822107	mylibrary.exe	34b36def6ae9608c

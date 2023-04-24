@@ -7,8 +7,10 @@
 
 #define     isleap(y)       ((y) % 4 == 0 && ((y) % 400 == 0 || (y) % 100 != 0))
 
+
 int         isprime (int val);
 void        pline(void);
 int         ndigit(int);
+
 
 #endif //MYLIBRARY_MYLIBRARY_H
