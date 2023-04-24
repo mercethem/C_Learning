@@ -33,11 +33,17 @@ int main() {
         printf("Yes true\n"); // ---> because type x changed and x is not 1 now max value of unsigned int!
     if (y > x)
         printf("No wrong\n");
-    return 0;
+
     int a;
     int b;
     printf("Please enter two integer :\n");
     scanf("%d", &a, &b);
-    printf("%d",a + b);
+    printf("%d\n",a + b);
 
+    char ch = 150; //Becareful that type is char but value is integer!
+    if (ch == 150) //This condition is turn char to int!
+        printf("150 is right\n");
+    else
+        printf("WRONG\n");
+    return 0;
 }
