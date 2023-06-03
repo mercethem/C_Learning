@@ -5,10 +5,9 @@
 #ifndef MYLIBRARY_MYLIBRARY_H
 #define MYLIBRARY_MYLIBRARY_H
 
-#define     RAND_MAX
+
 
 #define     isleap(y)       ((y) % 4 == 0 && ((y) % 400 == 0 || (y) % 100 != 0))
-
 
 
 int         isprime (int val);
