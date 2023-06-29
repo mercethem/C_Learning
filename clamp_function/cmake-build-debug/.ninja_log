@@ -1,9 +1,7 @@
 # ninja log v5
-0	51	7018771906244643	CMakeFiles/clamp_function.dir/main.c.obj	250eaad2f90fb411
-52	114	7018771906853251	clamp_function.exe	19abb1fd774b7806
-1	48	7018773079115895	CMakeFiles/clamp_function.dir/main.c.obj	250eaad2f90fb411
-48	104	7018773079654077	clamp_function.exe	19abb1fd774b7806
-1	55	7019220185016096	CMakeFiles/clamp_function.dir/main.c.obj	250eaad2f90fb411
-56	126	7019220185687592	clamp_function.exe	19abb1fd774b7806
-1	546	7020760921023467	CMakeFiles/clamp_function.dir/main.c.obj	250eaad2f90fb411
-546	1089	7020760926422853	clamp_function.exe	19abb1fd774b7806
+1	60	7095916773920715	CMakeFiles/clamp_function.dir/main.c.obj	250eaad2f90fb411
+60	125	7095916774536118	clamp_function.exe	19abb1fd774b7806
+1	195	7095936103016135	CMakeFiles/clamp_function.dir/main.c.obj	250eaad2f90fb411
+195	468	7095936105717374	clamp_function.exe	19abb1fd774b7806
+2	118	7096866398059193	CMakeFiles/clamp_function.dir/main.c.obj	250eaad2f90fb411
+119	219	7096866399041245	clamp_function.exe	19abb1fd774b7806

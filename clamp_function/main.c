@@ -3,7 +3,7 @@
 int clamp(int val, int low, int high)
 {
     int result = 0;
-    if (val <= low)
+    if(val <= low)
         result = low;
     else if(val > low && val < high)
         result = val;
@@ -15,10 +15,11 @@ int clamp(int val, int low, int high)
 int main()
 {
 
-    int low, high;
+    int low;
+    int high;
     int val;
     printf("Please enter a integer : \n");
-    scanf("%d",&val);
+    scanf("%d", &val);
 
     printf("Please enter a value range : \n");
     scanf("%d%d", &low, &high);
