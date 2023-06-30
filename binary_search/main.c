@@ -24,20 +24,20 @@ int main()
     int idx_finish = SIZE - 1;
     int idx_mid;
 
-    while(idx_start <= idx_finish)
+    while (idx_start <= idx_finish)
     {
         idx_mid = (idx_start + idx_finish) / 2;
-        if(a[idx_mid] == sval)
+        if (a[idx_mid] == sval)
             break;
 
-        if(a[idx_mid] > sval)
+        if (a[idx_mid] > sval)
             idx_finish = idx_mid - 1;
         else
             idx_start = idx_mid + 1;
 
     }
 
-    if(idx_start > idx_finish)
+    if (idx_start > idx_finish)
         printf("Did NOT found searching value\n");
     else
         printf("Found that index is %d\n", idx_mid);
