@@ -1,0 +1,5 @@
+
+}c:S3806"^non-portable path to file '<windows.h>'; specified path differs in case from file name on disk(íƒö’üÿÿÿÿ8Áœ¿ı1
+Ac:S5978d""multi-character character constant(âÄÅÓúÿÿÿÿ8õÄ±ı1
+pc:S5350Ä"\Make the type of this variable a pointer-to-const. The current type of "p" is "struct tm *".(Ÿï«ö
+kc:S1912Ä"WReplace this call to the non reentrant function "localtime" by a call to "localtime_r".(Ÿï«ö
