@@ -1,24 +1,42 @@
-//
-// Created by User on 18.04.2023.
-//
+﻿//This library files inspired by Necati ERGIN
 
-#ifndef MYLIBRARY_MYLIBRARY_H
-#define MYLIBRARY_MYLIBRARY_H
+#ifndef MYLIBRARY_H
+#define MYLIBRARY_H
 
+#include <stddef.h>
 
+#define		isleap(y)		((y) % 4 == 0 && ((y) % 100 != 0 || (y) % 400  == 0))
+#define		asize(x)		(sizeof(x) / sizeof(x[0]))
+#define		sbc(x)			 sbc_[x & 255] + sbc_[x >> 8 & 255] + sbc_[x >> 16 & 255] + sbc_[x >> 24 & 255]
 
-#define     isleap(y)       ((y) % 4 == 0 && ((y) % 400 == 0 || (y) % 100 != 0))
-#define     randomize()     srand((unsigned)time(NULL))
-#define     asize(x)        (sizeof(x) / sizeof(x[0]))
+extern const int sbc_[];
 
-int         isprime (int val);
-void        pline(void);
-int         ndigit(int);
-int         rand(void); //Seed value is 1
-void        srand(unsigned int); //Changes the seed value of rand function
-void        set_array_random(int*, int size);
-void        print_array(const int*, int size);
-void        sort_array( int*, int size);
+int		ndigit(int);
+int		isprime(int);
+void	sleep(int millisecond);
+void	putline(void);
+void	clear_input_buffer(void);
+void	randomize(void);
+void	bitprint(int);
 
+void	print_array(const int* p, size_t size);
+void	set_random_array(int* p, size_t size);
+void	sort_array(int *p, size_t size);
+void	sgets(char* p);
+void	swap(int *p1, int *p2);
+void	reverse_array(int* p, size_t size);
+int		get_max(const int* p, size_t size);
+int		get_min(const int* p, size_t size);
+void	get_min_max(const int* p, size_t size,int *pmax,int *pmin);
+void	bsort(int* p, size_t size);
+void	copy_array(int* pdest, const int* psource, int n);
+void	gswap(void* vp1, void* vp2, size_t size);
+void	gbsort(void* vpa, size_t size, size_t sz, int (*fp)(const void*, const void*));
 
-#endif //MYLIBRARY_MYLIBRARY_H
+char* get_log_file_name(void);
+
+const char* rname(void);
+const char* rsurname(void);
+const char* rtown(void);
+
+#endif

@@ -3,9 +3,7 @@
 #include <time.h>
 #include "mylibrary.h"
 
-
 #define     SIZE        100
-
 
 int main()
 {
@@ -41,5 +39,4 @@ int main()
         printf("Did NOT found searching value\n");
     else
         printf("Found that index is %d\n", idx_mid);
-
 }
