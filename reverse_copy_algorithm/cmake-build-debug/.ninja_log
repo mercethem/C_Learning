@@ -1,0 +1,9 @@
+# ninja log v5
+0	88	7099717332691662	CMakeFiles/reverse_copy_algorithm.dir/main.c.obj	af1e4ba28dcd42d9
+90	164	7099717333413496	reverse_copy_algorithm.exe	8ad51570ccac28e
+1	90	7099717590852516	CMakeFiles/reverse_copy_algorithm.dir/main.c.obj	af1e4ba28dcd42d9
+91	148	7099717591372432	reverse_copy_algorithm.exe	8ad51570ccac28e
+1	86	7099717745177564	CMakeFiles/reverse_copy_algorithm.dir/main.c.obj	af1e4ba28dcd42d9
+87	143	7099717745705667	reverse_copy_algorithm.exe	8ad51570ccac28e
+1	90	7099717877046311	CMakeFiles/reverse_copy_algorithm.dir/main.c.obj	af1e4ba28dcd42d9
+90	149	7099717877592911	reverse_copy_algorithm.exe	8ad51570ccac28e
