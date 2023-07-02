@@ -1,0 +1,9 @@
+# ninja log v5
+0	92	7099684820006774	CMakeFiles/string_equal.dir/main.c.obj	3d366075585565e2
+94	174	7099684820801291	string_equal.exe	e30c4c76205d6de1
+1	118	7099684892773221	CMakeFiles/string_equal.dir/main.c.obj	3d366075585565e2
+118	180	7099684893334125	string_equal.exe	e30c4c76205d6de1
+1	88	7099685026858137	CMakeFiles/string_equal.dir/main.c.obj	3d366075585565e2
+88	149	7099685027399129	string_equal.exe	e30c4c76205d6de1
+1	90	7099685314553266	CMakeFiles/string_equal.dir/main.c.obj	3d366075585565e2
+90	152	7099685315132832	string_equal.exe	e30c4c76205d6de1
