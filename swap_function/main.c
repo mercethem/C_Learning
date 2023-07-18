@@ -1,3 +1,5 @@
+//swap function uses call by reference!
+
 #include <stdio.h>
 
 void swap(int *ival, int *ival2)
