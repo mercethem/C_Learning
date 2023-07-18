@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int swap(int *ival, int *ival2)
+void swap(int *ival, int *ival2)
 {
     int temp = *ival;
     *ival = *ival2;
