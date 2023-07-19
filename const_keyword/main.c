@@ -1,7 +1,7 @@
 /**
  if you use keyword to const, you can not assign this variable's value or array's values!!!
  Logical stables!!!
- const keyword always static and stable unchangeable if you changed with tricks this is UB!
+ const keyword always static and stable so unchangeable if you changed with tricks this is UB!!!!
  */
 
 #include <stdio.h>
