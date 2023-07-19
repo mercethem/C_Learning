@@ -1,5 +1,6 @@
 /**
  if you use keyword to const, you can not assign this variable's value or array's values!!!
+ Logical stables!!!
  */
 
 #include <stdio.h>
