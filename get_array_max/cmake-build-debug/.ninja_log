@@ -1,0 +1,6 @@
+# ninja log v5
+0	103	7116180990168400	CMakeFiles/get_array_max.dir/main.c.obj	6ed5a376b80cd782
+10	495	7116180994080857	CMakeFiles/get_array_max.dir/mylibrary.c.obj	5273fac9a49e8364
+496	584	7116180994915476	get_array_max.exe	f269bfbc837056ba
+1	92	7116182278577346	CMakeFiles/get_array_max.dir/main.c.obj	6ed5a376b80cd782
+92	154	7116182279157236	get_array_max.exe	f269bfbc837056ba
