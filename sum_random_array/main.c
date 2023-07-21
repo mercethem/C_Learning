@@ -6,11 +6,20 @@
 int sum_array(const int* p, int size)
 {
     int sum = 0;
-    for (int i = 0; i < SIZE ; ++i) {
-        sum += p[i];
-    }
-    return sum;
 
+//    for (int i = 0; i < SIZE ; ++i) {
+//        sum += p[i];
+//    }
+
+//    while (size--){
+//        sum += *p;
+//        ++p;
+//    }
+
+    while (size--)
+        sum += *p++;
+
+    return sum;
 }
 
 int main()
