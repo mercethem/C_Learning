@@ -1,0 +1,27 @@
+# ninja log v5
+0	92	7116144060496685	CMakeFiles/send_arrays_to_functions.dir/main.c.obj	9fc85d15c099ef5
+93	167	7116144061213147	send_arrays_to_functions.exe	bdb0d0480c2d53f8
+1	89	7116145848548668	CMakeFiles/send_arrays_to_functions.dir/main.c.obj	9fc85d15c099ef5
+89	148	7116145849097119	send_arrays_to_functions.exe	bdb0d0480c2d53f8
+1	88	7116146135131228	CMakeFiles/send_arrays_to_functions.dir/main.c.obj	9fc85d15c099ef5
+88	146	7116146135676961	send_arrays_to_functions.exe	bdb0d0480c2d53f8
+1	86	7116146217533548	CMakeFiles/send_arrays_to_functions.dir/main.c.obj	9fc85d15c099ef5
+86	141	7116146218059452	send_arrays_to_functions.exe	bdb0d0480c2d53f8
+1	87	7116146990880659	CMakeFiles/send_arrays_to_functions.dir/main.c.obj	9fc85d15c099ef5
+89	149	7116146991452229	send_arrays_to_functions.exe	bdb0d0480c2d53f8
+1	89	7116147223600985	CMakeFiles/send_arrays_to_functions.dir/main.c.obj	9fc85d15c099ef5
+89	146	7116147224136665	send_arrays_to_functions.exe	bdb0d0480c2d53f8
+1	88	7116147296475799	CMakeFiles/send_arrays_to_functions.dir/main.c.obj	9fc85d15c099ef5
+88	145	7116147296992306	send_arrays_to_functions.exe	bdb0d0480c2d53f8
+1	88	7116147363481139	CMakeFiles/send_arrays_to_functions.dir/main.c.obj	9fc85d15c099ef5
+88	144	7116147364017393	send_arrays_to_functions.exe	bdb0d0480c2d53f8
+1	86	7116147424666784	CMakeFiles/send_arrays_to_functions.dir/main.c.obj	9fc85d15c099ef5
+86	142	7116147425198516	send_arrays_to_functions.exe	bdb0d0480c2d53f8
+1	88	7116149459972035	CMakeFiles/send_arrays_to_functions.dir/main.c.obj	9fc85d15c099ef5
+88	148	7116149460536646	send_arrays_to_functions.exe	bdb0d0480c2d53f8
+1	91	7116149708852073	CMakeFiles/send_arrays_to_functions.dir/main.c.obj	9fc85d15c099ef5
+91	151	7116149709404033	send_arrays_to_functions.exe	bdb0d0480c2d53f8
+2	88	7116151376259499	CMakeFiles/send_arrays_to_functions.dir/main.c.obj	9fc85d15c099ef5
+88	145	7116151376796260	send_arrays_to_functions.exe	bdb0d0480c2d53f8
+1	91	7116153792630512	CMakeFiles/send_arrays_to_functions.dir/main.c.obj	9fc85d15c099ef5
+91	157	7116153793252869	send_arrays_to_functions.exe	bdb0d0480c2d53f8
