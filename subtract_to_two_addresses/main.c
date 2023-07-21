@@ -1,7 +1,17 @@
 /**
+    If addresses are part of a array
+
     address1 > address2
     address1 - address2 = positive integer
     address2 - address1 = negative integer
+
+    (ptr - a) equal to (index)
+
+    Not a difference to know address or index at C/C++
+    for example:    index is n so address is a + n
+                    address is ptr so index is ptr - a
+
+    but these addresses are not part of a array,  these calculating are meaningless!!!
 
  */
 
