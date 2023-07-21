@@ -1,0 +1,10 @@
+# ninja log v5
+0	96	7116159884243844	CMakeFiles/sum_random_array.dir/main.c.obj	d36a9880d64cd2f8
+9	598	7116159889265444	CMakeFiles/sum_random_array.dir/mylibrary.c.obj	c896e2b3b3bc0a22
+599	674	7116159889986899	sum_random_array.exe	33c91d03b3d846a5
+2	93	7116160245186899	CMakeFiles/sum_random_array.dir/main.c.obj	d36a9880d64cd2f8
+94	151	7116160245728266	sum_random_array.exe	33c91d03b3d846a5
+2	92	7116160302711730	CMakeFiles/sum_random_array.dir/main.c.obj	d36a9880d64cd2f8
+92	150	7116160303241815	sum_random_array.exe	33c91d03b3d846a5
+2	90	7116160454957976	CMakeFiles/sum_random_array.dir/main.c.obj	d36a9880d64cd2f8
+90	152	7116160455522803	sum_random_array.exe	33c91d03b3d846a5
