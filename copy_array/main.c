@@ -7,14 +7,15 @@
 
 void copy_array_(const int* psource, int* pdest, int size)
 {
-//    for (int i = 0; i < size; ++i)
+//    for (int i = 0; i < size; ++i)    1. Format
 //        pdest[i] = psource[i];
-//    while(size--){
+
+//    while(size--){                    2. Format
 //        *pdest = *psource;
 //        ++pdest;
 //        ++psource;
 //    }
-        while(size--)
+        while(size--)                   //3. Format
             *pdest++ = *psource++;
 }
 
