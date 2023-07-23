@@ -5,7 +5,7 @@
 #define     SIZE    100
 
 
-void copy_array_(const int* psource, int* pdest, int n)
+void copy_array_(int* pdest, const int* psource, int n)
 {
     while (n--)
         *pdest++ = *psource++;
@@ -31,7 +31,9 @@ int main()
     scanf("%d", &idx_b);
     printf("How much index copy :");
     scanf("%d", &n);
-    copy_array_(a + idx_a, b + idx_b, n);
+
+    copy_array_(b + idx_b, a + idx_a, n);
+    //copy_array_(b[idx_b], a[idx_a], n);
 
     print_array(b, SIZE);
 
