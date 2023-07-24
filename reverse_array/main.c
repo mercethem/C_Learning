@@ -7,14 +7,17 @@
 
 void reverse_array_(int* p, int size)
 {
-    for (int i = 0; i < size / 2; ++i) {
-        int temp = p[i];
-        p[i] = p[size - i - 1];
-        p[size - i - 1] = temp;
-    }
-//    for (int i = 0; i < size / 2; ++i) {
+//    for (int i = 0; i < size / 2; ++i) {      1. Format
+//        int temp = p[i];
+//        p[i] = p[size - i - 1];
+//        p[size - i - 1] = temp;
+//    }
+//    for (int i = 0; i < size / 2; ++i) {      2. Format
 //        swap(&p[i], &p[size - i - 1]);
 //    }
+    for (int i = 0; i < size / 2; ++i) {        //3. Format
+        swap(p +i, p + size - 1 - i);
+    }
 }
 
 int main()
