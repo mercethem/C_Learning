@@ -1,0 +1,21 @@
+# ninja log v5
+0	152	7119966916135059	CMakeFiles/pointer_idioms.dir/main.c.obj	31ee6ba7061a279c
+153	285	7119966917416529	pointer_idioms.exe	e71a44b000e48641
+1	106	7119967026629688	CMakeFiles/pointer_idioms.dir/main.c.obj	31ee6ba7061a279c
+106	170	7119967027226449	pointer_idioms.exe	e71a44b000e48641
+1	106	7119967068618765	CMakeFiles/pointer_idioms.dir/main.c.obj	31ee6ba7061a279c
+106	172	7119967069244213	pointer_idioms.exe	e71a44b000e48641
+2	109	7119967132173387	CMakeFiles/pointer_idioms.dir/main.c.obj	31ee6ba7061a279c
+109	175	7119967132769800	pointer_idioms.exe	e71a44b000e48641
+1	105	7119968320193006	CMakeFiles/pointer_idioms.dir/main.c.obj	31ee6ba7061a279c
+105	175	7119968320836099	pointer_idioms.exe	e71a44b000e48641
+1	96	7119968396017570	CMakeFiles/pointer_idioms.dir/main.c.obj	31ee6ba7061a279c
+98	167	7119968396666188	pointer_idioms.exe	e71a44b000e48641
+1	99	7119969608668027	CMakeFiles/pointer_idioms.dir/main.c.obj	31ee6ba7061a279c
+99	162	7119969609278601	pointer_idioms.exe	e71a44b000e48641
+1	93	7119973952543932	CMakeFiles/pointer_idioms.dir/main.c.obj	31ee6ba7061a279c
+94	153	7119973953086751	pointer_idioms.exe	e71a44b000e48641
+1	93	7119974077989972	CMakeFiles/pointer_idioms.dir/main.c.obj	31ee6ba7061a279c
+93	152	7119974078529277	pointer_idioms.exe	e71a44b000e48641
+2	92	7119974351507815	CMakeFiles/pointer_idioms.dir/main.c.obj	31ee6ba7061a279c
+92	150	7119974352061212	pointer_idioms.exe	e71a44b000e48641
