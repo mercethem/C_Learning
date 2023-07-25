@@ -30,9 +30,7 @@ int main()
 
     int a[5] = {0, 1, 2, 3, 4, 5};
     int b[5] = {0, 11, 22, 33, 44, 55};
-//    int* ptr = a;
-//    *ptr++ = 99;
-//    *ptr = 10;
+
     copy_array(a, b, 5);
 
     for (int i = 0; i < 5; ++i) {
