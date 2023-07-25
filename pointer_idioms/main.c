@@ -13,15 +13,15 @@
     &x++, &++x, &--x, &x--; // SYNTAX ERROR!!! Because of these are not L Value Expr. Right way is (&(L_V_Expr.))
     ++&x, --&x, &x++, &x--; // SYNTAX ERROR!!! Because of these are not L Value Expr. Right way is (--(L_V_Expr.))
 
-    *ptr++ = 99; VALID (0 = 99) (*p = 99; p = p + 1;) is equal to (*ptr++ = 99);
-
+    *ptr++ = 99; ===> (&a[0])++; so it is VALID (0 = 99) (*p = 99; p = p + 1;) is equal to (*ptr++ = 99);
+    *ptr++ = 99; ===> (&a[0])++; so it is VALID (1 = 99) (p = p + 1; *p = 99;) is equal to (*++ptr = 99);
 
 
  */
 
 void copy_array(int* pdest, const int* psource, int n)
 {
-    while(n--)
+    while (n--)
         *pdest++ = *psource++;
 }
 
