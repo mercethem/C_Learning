@@ -16,7 +16,7 @@ void reverse_array_(int* p, int size)
 //        swap(&p[i], &p[size - i - 1]);
 //    }
     for (int i = 0; i < size / 2; ++i) {        //3. Format
-        swap(p +i, p + size - 1 - i);
+        swap(p + i, p + size - 1 - i);
     }
 }
 
