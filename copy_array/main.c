@@ -15,8 +15,8 @@ void copy_array_(const int* psource, int* pdest, int size)
 //        ++pdest;
 //        ++psource;
 //    }
-        while(size--)                   //3. Format
-            *pdest++ = *psource++;
+    while (size--)                   //3. Format
+        *pdest++ = *psource++;
 }
 
 
