@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 /**
+ TYPDEDEF IS A TYPE AlIAS
  standard convention iptr_t (size_t, int16_t, etc.) not IPTR or Iptr. IPTR or Iptr can usable
  (#define   IPTR    int*) not equal to (typedef int* IPTR)
  ATTENTION: Redeclaration is NOT a STNTAX ERROR
