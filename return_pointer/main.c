@@ -1,6 +1,9 @@
 /**
  Never ever never, function of return pointer have not return automatic life pointer!!!
  (Address of stack memory associated with local variable 'x' returned)
+
+ Can be usable
+ 1- Static pointers!(global variable, static local variables, string literals)
  */
 
 
