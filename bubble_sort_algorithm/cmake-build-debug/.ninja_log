@@ -1,0 +1,8 @@
+# ninja log v5
+0	100	7125997425252556	CMakeFiles/bubble_sort_algorithm.dir/main.c.obj	2b0087c050dc606c
+8	544	7125997429695066	CMakeFiles/bubble_sort_algorithm.dir/mylibrary.c.obj	56e4b4eaacb18be1
+546	628	7125997430497306	bubble_sort_algorithm.exe	35b59f3159556855
+1	93	7125997635744929	CMakeFiles/bubble_sort_algorithm.dir/main.c.obj	2b0087c050dc606c
+93	156	7125997636321443	bubble_sort_algorithm.exe	35b59f3159556855
+2	98	7125997684535265	CMakeFiles/bubble_sort_algorithm.dir/main.c.obj	2b0087c050dc606c
+98	160	7125997685110636	bubble_sort_algorithm.exe	35b59f3159556855
