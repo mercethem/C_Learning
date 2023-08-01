@@ -32,4 +32,6 @@ int main()
     printf("max = %d, array's index = %lld\n", *pmax, pmax - a);
     *pmax = -1;
     print_array(a, SIZE);
+
+    print_array(pmax, SIZE - (pmax - a));
 }
