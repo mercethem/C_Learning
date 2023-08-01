@@ -1,0 +1,6 @@
+# ninja log v5
+2	91	7125992952412766	CMakeFiles/bubble_sort2.dir/main.c.obj	ed87fd2517fafc45
+8	528	7125964481635800	CMakeFiles/bubble_sort2.dir/mylibrary.c.obj	fa01e8b73d471e06
+91	152	7125992952964180	bubble_sort2.exe	269974d43455cbee
+2	88	7125993208302664	CMakeFiles/bubble_sort2.dir/main.c.obj	ed87fd2517fafc45
+88	148	7125993208844765	bubble_sort2.exe	269974d43455cbee
