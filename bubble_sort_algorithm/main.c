@@ -1,8 +1,14 @@
 /**
  Bubble Sort ===> If you want to use big data than that is bad efficiency
+
+ TIME COMPLEXITY
  Worst Case = O(n^2)
  Average Case = O(n^2)
  Best Case = O(n) ===> (!swap)
+
+ SPACE COMPLEXITY
+ O(1)
+
  */
 
 #include "mylibrary.h"
