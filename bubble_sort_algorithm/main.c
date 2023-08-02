@@ -21,16 +21,16 @@ void bubble_sort(int arr[], int size)
 {
     for (int i = 0; i < size - 1; ++i) {
         int flag = 0;
-        for (int j = i + 1; j < size; ++j) {
-            if (arr[i] < arr[j]) {
+        for (int j = 0; j < size - i - 1; ++j) {
+            if (arr[j + 1] < arr[j]) {
                 flag++;
-                int temp = arr[i];
-                arr[i] = arr[j];
+                int temp = arr[j + 1];
+                arr[j + 1] = arr[j];
                 arr[j] = temp;
             }
         }
         if (!flag)
-            return;
+            break;
     }
 }
 
