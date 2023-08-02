@@ -18,12 +18,16 @@
 void func(int arr[], int size)
 {
     for (int i = 0; i < size; ++i) {
+        int flag = 0;
         for (int j = i + 1; j < size; ++j) {
             if (arr[j] < arr[i]) {
+                flag++;
                 int temp = arr[i];
                 arr[i] = arr[j];
                 arr[j] = temp;
             }
+            if (!flag)
+                return;
         }
     }
 }
