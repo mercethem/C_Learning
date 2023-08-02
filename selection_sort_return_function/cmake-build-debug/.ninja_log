@@ -1,0 +1,4 @@
+# ninja log v5
+0	111	7126476703481161	CMakeFiles/selection_sort_return_function.dir/main.c.obj	3e5f918af5ab0301
+10	555	7126476707903071	CMakeFiles/selection_sort_return_function.dir/mylibrary.c.obj	b1ff3ce5f81c970b
+556	639	7126476708719970	selection_sort_return_function.exe	4cd7457201728305
