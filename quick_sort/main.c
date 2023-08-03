@@ -16,34 +16,32 @@
 
 
 #define     SIZE    20
+#define     PIVOT   last //last or first
 
 
-int partition(int arr[], int begin, int end)
+void quicksort(int arr[SIZE], int first, int last)
 {
-    int pivot = arr[end];
-    int i = (begin - 1);
+    int i;
+    int j;
+    int pivot = PIVOT;
 
-    for (int j = begin; j <= end- 1; j++)
-    {
-        if (arr[j] <= pivot)
-        {
-            i++;
-            swap(&arr[i], &arr[j]);
+    if (first < last) {
+
+        i = first;
+        j = last;
+
+        while (i < j) {
+            while (arr[i] <= arr[pivot] && i < last)
+                i++;
+            while (arr[j] > arr[pivot])
+                j--;
+            if (i < j) {
+                swap(&arr[i], &arr[j]);
+            }
         }
-    }
-    swap(&arr[i + 1], &arr[end]);
-
-    return (i + 1);
-}
-
-void quick_sort(int arr[], int low, int high)
-{
-    if (low < high)
-    {
-        int part_idx = partition(arr, low, high);
-
-        quick_sort(arr, low, part_idx - 1);
-        quick_sort(arr, part_idx + 1, high);
+        swap(&arr[pivot], &arr[j]);
+        quicksort(arr, first, j - 1);
+        quicksort(arr, j + 1, last);
     }
 }
 
@@ -55,7 +53,7 @@ int main()
     set_random_array(a, SIZE);
     print_array(a, SIZE);
 
-    quick_sort(a, 0, SIZE - 1);
+    quicksort(a, 0, SIZE - 1);
     print_array(a, SIZE);
 
     return 0;
