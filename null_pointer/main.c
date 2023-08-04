@@ -44,5 +44,13 @@
  GENERALLY USES NULL, NOT '0' but can use not a syntax error!!!
 
  Compilers choose are sometimes are FFFF(real memory area) sometimes unreal memory area
+
+
+ int main()
+ {
+    int x[10] = {1, 2} ===> {0, 0, 0, 0, 0, 0, 0, 0}
+    int y[10] = {3, 4} ===> {0, 0, 0, 0, 0, 0, 0, 0}
+    int* a[10] = {x, y} ===> { NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL}
+ }
  */
 
