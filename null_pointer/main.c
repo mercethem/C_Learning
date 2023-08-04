@@ -55,12 +55,27 @@
 
 
  When use NULL POINTERS
- 1) If function's return value is a pointer(unsuccessful result is NULL)
+    1) If function's return value is a pointer(unsuccessful result is NULL)
 
- 2) Search functions (Almost all of them)
+    2) Search functions (Almost all of them)
+
+    3) If function's parameter is a pointer,then do not use NULL Pointer!!! (UNDEFINED BEHAVIOR)(UB)
+    ATTENTION: SOME FUNCTIONS CAN DO THAT!!! (Either pointer or NULL Pointer)(Optional for functions)
+
+    4) If pointer is a flag value
+       Example: int* ptr = NULL;
+                if(expr) {
+                    ptr = pointer;
+                }
+                if(!ptr).....
+
+    5)Dynamic memory management
+      -pointer invalidation (UNDEFINED BEHAVIOR!!!) That time use assign to NULL your pointer!!!
+        such as (ptr = NULL;)
 
 
  */
+
 
 #include "mylibrary.h"
 #include <stdio.h>
@@ -72,10 +87,24 @@
 int* search(const int* p, size_t size, int val)
 {
     for (size_t i = 0; i < size; ++i) {
-        if(p[i] == val)
+        if (p[i] == val)
             return (int*)(p + i);
     }
     return NULL;
+}
+
+int* search2(const int* p, size_t size, int val)
+{
+    while (size--){
+        if(*p == val)
+            return (int*)p;
+        ++p;
+    }
+    
+    return NULL;
+
+
+
 }
 
 int main()
@@ -90,7 +119,7 @@ int main()
 
     printf("Please enter what you want to search to integer:");
     scanf("%d", &ival);
-    pival = search(a, SIZE, ival);
+    pival = search2(a, SIZE, ival);
 
     if (pival)
         printf("Your value is %d and index is %lld\n", ival, pival - a);
