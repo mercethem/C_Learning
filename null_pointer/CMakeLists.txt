@@ -3,4 +3,4 @@ project(null_pointer C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(null_pointer main.c)
+add_executable(null_pointer main.c mylibrary.c mylibrary.h)

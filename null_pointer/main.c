@@ -48,9 +48,53 @@
 
  int main()
  {
+    int k;
     int x[10] = {1, 2} ===> {0, 0, 0, 0, 0, 0, 0, 0}
     int y[10] = {3, 4} ===> {0, 0, 0, 0, 0, 0, 0, 0}
-    int* a[10] = {x, y} ===> { NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL}
- }
+    int* a[10] = {x, y, &k} ===> {NULL, NULL, NULL, NULL, NULL, NULL, NULL}
+
+
+ When use NULL POINTERS
+ 1) If function's return value is a pointer(unsuccessful result is NULL)
+
+ 2) Search functions (Almost all of them)
+
+
  */
 
+#include "mylibrary.h"
+#include <stdio.h>
+
+
+#define     SIZE    10
+
+
+int* search(const int* p, size_t size, int val)
+{
+    for (size_t i = 0; i < size; ++i) {
+        if(p[i] == val)
+            return (int*)(p + i);
+    }
+    return NULL;
+}
+
+int main()
+{
+    int a[SIZE];
+    int ival;
+    int* pival;
+
+    randomize();
+    set_random_array(a, SIZE);
+    print_array(a, SIZE);
+
+    printf("Please enter what you want to search to integer:");
+    scanf("%d", &ival);
+    pival = search(a, SIZE, ival);
+
+    if (pival)
+        printf("Your value is %d and index is %lld\n", ival, pival - a);
+    else
+        printf("There is not your number inside the array!");
+
+}
