@@ -1,0 +1,4 @@
+# ninja log v5
+1	96	7130240163013457	CMakeFiles/string_library.dir/main.c.obj	329a7b31c42e4597
+96	155	7130240163559638	string_library.exe	538a31e36a05739a
+9	614	7130224765197927	CMakeFiles/string_library.dir/mylibrary.c.obj	5a202e67eec794a5
