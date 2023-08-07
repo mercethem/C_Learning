@@ -16,7 +16,7 @@ int main()
     char s[SIZE];
     char* p;
 
-    printf("Please enter a integer:");
+    printf("Please enter a string:");
     sgets(s);
     p = strchr(s, 'a');
 
