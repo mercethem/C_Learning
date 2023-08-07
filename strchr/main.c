@@ -21,7 +21,7 @@ int main()
     p = strchr(s, 'a');
 
     if (p != NULL) {
-        printf("Found your character and index is %d\n", p - s);
+        printf("Found your character and index is %zu\n", p - s);
         *p = '*';
         puts(s);
     }
