@@ -51,5 +51,17 @@ int main()
 
     printf("(%s)", str1);
 
+    char s1[SIZE];
+    char s2[SIZE];
+    char s3[SIZE];
+
+    printf("Please enter two name:\n");
+    scanf("%s%s", s1, s2);
+
+    strcat(strcpy(s3,s1), s2);
+
+    printf("(%s) + (%s) = (%s)", s1, s2, s3);
+
+
     return 0;
 }
