@@ -34,6 +34,8 @@
  Bigger than style ===> if(strcmp(str1, str2) > 0) or if(strcmp(str1, str2) < 0)
 
 
+ ATTTENTION: stricmp is not standard and that is insensitive comparing!!!
+
  */
 
 
