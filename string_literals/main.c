@@ -1,4 +1,3 @@
-#include <stdio.h>
 
 /**
 
@@ -34,20 +33,48 @@
 
 
  char str[] = "table";          ===> that is array initialized and this is readable and writable(not static)
- const char str[] = "table";    ===> that is array initialized and this is only readable(not static)
- char* p = "table";             ===> that is pointer and initialized and thera are two variable in here
-                                first is "table" and second is pointer p (static)
-                                NOTE= Syntax Error in C++ need (const char* p = "table";)
-                                NOTE2 = Use like this in C (const char* p = "table";)
+                                array size 5(table) + 1(\0).
+ const char str[] = "table";    ===> that is array initialized and this is only readable(not static).
+ char* p = "table";             ===> Array decay, that is pointer and initialized and there are two variable
+                                in here first is "table" and second is pointer p (static).
+                                NOTE= Syntax Error in C++ need (const char* p = "table";).
+                                NOTE2 = Use like this in C (const char* p = "table";).
+
+
+ const char* p = ""; // NULL STRING LITERAL (strlen("") ===> 0, sizeof("") ===> bvecause of there is
+                                             a secret "\0" en of the null string literal)
+
 
 
  */
+#include <stdio.h>
+#include <string.h>
+
+
+#define     SIZE    100
 
 int main()
 {
-    char* p = "table"; //USE const char* p like C++
-    *p = 'm'; //UNDEFINED BEHAVIOR(UB)
-    p[2] = 'n';//UNDEFINED BEHAVIOR(UB)
+    char old_file_name[SIZE];
+    char new_file_name[SIZE];
 
-    return 0;
+    printf("Please enter file name:");
+    scanf("%s", old_file_name);
+
+    strcpy(new_file_name, old_file_name);//Copy from old to new
+    char* p = strrchr(new_file_name, '.'); //search '.'
+
+    if (!p) {
+        strcat(new_file_name, ".dat"); //".dat" added end of file name
+    }
+    else if (!strcmp(p, ".xls")) { //checked ".xls" end of file name
+        strcpy(p, ".doc"); //".xls" changed end of file name ".doc"
+    }
+    else if (!strcmp(p, ".jpg")) { //checked ".jpg" end of file name
+        *p = '\0';  //Changed ".jpg" to '\0'(NULL is end of name)
+    }
+    else {
+        strcpy(p, ".txt"); //different versions changed end of file name ".txt"
+    }
+    printf("(%s) ===> (%s)", old_file_name, new_file_name);
 }
