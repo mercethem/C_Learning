@@ -1,0 +1,5 @@
+# ninja log v5
+0	97	7145072554238805	CMakeFiles/pointer_to_pointer_call_by_reference.dir/main.c.obj	2a9d4d5a42e43fd8
+97	173	7145072554955665	pointer_to_pointer_call_by_reference.exe	eb0e427c0056a4ac
+2	90	7145072634561164	CMakeFiles/pointer_to_pointer_call_by_reference.dir/main.c.obj	2a9d4d5a42e43fd8
+90	152	7145072635134364	pointer_to_pointer_call_by_reference.exe	eb0e427c0056a4ac
