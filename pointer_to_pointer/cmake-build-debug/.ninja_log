@@ -1,0 +1,11 @@
+# ninja log v5
+0	109	7145056843395062	CMakeFiles/pointer_to_pointer.dir/main.c.obj	187e06b4d2490c4d
+112	207	7145056844335909	pointer_to_pointer.exe	a600e1ddbe102066
+1	95	7145059620276527	CMakeFiles/pointer_to_pointer.dir/main.c.obj	187e06b4d2490c4d
+95	157	7145059620853873	pointer_to_pointer.exe	a600e1ddbe102066
+1	95	7145060012958124	CMakeFiles/pointer_to_pointer.dir/main.c.obj	187e06b4d2490c4d
+95	159	7145060013554085	pointer_to_pointer.exe	a600e1ddbe102066
+1	99	7145060249279679	CMakeFiles/pointer_to_pointer.dir/main.c.obj	187e06b4d2490c4d
+99	161	7145060249830026	pointer_to_pointer.exe	a600e1ddbe102066
+1	90	7145061266884559	CMakeFiles/pointer_to_pointer.dir/main.c.obj	187e06b4d2490c4d
+90	150	7145061267433215	pointer_to_pointer.exe	a600e1ddbe102066
