@@ -1,0 +1,6 @@
+# ninja log v5
+0	101	7145094684700796	CMakeFiles/pointer_to_pointer_pointer_array.dir/main.c.obj	fedaa15052e3e063
+8	492	7145094688614238	CMakeFiles/pointer_to_pointer_pointer_array.dir/mylibrary.c.obj	36d10bbafc59cba5
+493	573	7145094689379234	pointer_to_pointer_pointer_array.exe	7ac5d892d02c2d2d
+1	96	7145095464723838	CMakeFiles/pointer_to_pointer_pointer_array.dir/main.c.obj	fedaa15052e3e063
+96	159	7145095465320929	pointer_to_pointer_pointer_array.exe	7ac5d892d02c2d2d
