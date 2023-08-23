@@ -35,7 +35,7 @@ void sort_names(char** pa, size_t size)
     }
 }
 
-void print_names(char** pa, size_t size)
+void print_names(char* const* pa, size_t size)
 {
     for (size_t i = 0; i < size; ++i)
         printf("%s ", pa[i]);
@@ -43,7 +43,7 @@ void print_names(char** pa, size_t size)
     printf("\n\n");
 }
 
-void print_names2(char** pa, size_t size)
+void print_names2(char* const* pa, size_t size)
 {
     while (size--)
         printf("%s ", *pa++);
