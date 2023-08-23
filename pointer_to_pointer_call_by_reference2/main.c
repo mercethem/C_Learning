@@ -3,7 +3,7 @@
 
 #define     SIZE    10
 
-void get_min_max2(const int* pa, size_t size, int** pmin, int** pmax)
+void get_min_max2(const int* pa, size_t size, int** pmin, int** pmax) //pointer to pointer call by reference
 {
     *pmin = *pmax = (int*)pa;
 
