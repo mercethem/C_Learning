@@ -12,8 +12,8 @@
 
 int main()
 {
-    int a[SIZE] = {1, 2, 3, 4};
-    int b[SIZE] = {1, 2, 3, 4};
+    int a[SIZE] = {1, 2, 3, 4, 5};
+    int b[SIZE] = {1, 2, 3, 4, 5};
 
     if (!memcmp(a, b, sizeof a)) {
         printf("Equal!\n");
