@@ -30,6 +30,7 @@ int main()
     print_array(d, SIZE);
 
     memcpy(d + 20, c, sizeof(int) * 40); // sizeof(a); equal to sizeof a;
+    //ATTENTION : memcpy(d + 20, d + 10, sizeof(int) * 40); Undefined Behavior because of RESTRICT keyword!!!!!!
     print_array(c, SIZE);
     print_array(d, SIZE);
 
