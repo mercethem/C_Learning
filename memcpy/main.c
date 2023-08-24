@@ -3,7 +3,7 @@
 #include "mylibrary.h"
 
 
-#define     SIZE    10
+#define     SIZE    100
 
 
 int main()
@@ -29,7 +29,7 @@ int main()
     print_array(c, SIZE);
     print_array(d, SIZE);
 
-    memcpy(d + 2, c, sizeof(int) * 4); // sizeof(a); equal to sizeof a;
+    memcpy(d + 20, c, sizeof(int) * 40); // sizeof(a); equal to sizeof a;
     print_array(c, SIZE);
     print_array(d, SIZE);
 
