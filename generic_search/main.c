@@ -17,6 +17,18 @@ void* mygsearch(const void* vpa, size_t size, size_t sz, const void* vpkey)
     return NULL;
 }
 
+void* mygsearch2(const void* vpa, size_t size, size_t sz, const void* vpkey)
+{
+    const char* p = (const char*)vpa;
+
+    while (size--) {
+        if (!memcmp(p, vpkey, sz))
+            return (char*)p;
+        p += sz;
+    }
+    return NULL;
+}
+
 
 int main()
 {
@@ -30,7 +42,7 @@ int main()
     printf("Please enter what do you want to search of value:\n");
     scanf("%d", &ival);
 
-    int* ptr = (int*)mygsearch(a, SIZE, sizeof(*a), &ival);
+    int* ptr = (int*)mygsearch2(a, SIZE, sizeof(*a), &ival);
     if (ptr) {
         printf("Found! Index is : %lld\n", ptr - a);
     }
