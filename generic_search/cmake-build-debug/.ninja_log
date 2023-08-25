@@ -1,0 +1,4 @@
+# ninja log v5
+1	95	7146258265095062	CMakeFiles/generic_search.dir/main.c.obj	4487b390eca36bee
+1	502	7146258605948576	CMakeFiles/generic_search.dir/mylibrary.c.obj	4ce0f23af10e3c41
+503	582	7146258606714064	generic_search.exe	dfcbf460cf0a0035
