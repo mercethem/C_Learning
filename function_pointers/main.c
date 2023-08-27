@@ -25,23 +25,9 @@
 
     }
 
- */
+    int foo(int);
+    int func(int);
 
-
-#include <string.h>
-#include <stdio.h>
-
-
-int foo(int);
-int func(int);
-
-void function(int x)
-{
-    printf("Function started x = %d\n", x);
-}
-
-int main()
-{
     int (* fp)(int) = &foo; //equal to ===> int (* fp)(int) = &foo;
 
     fp = &func; //equal to ===> fp = func;
@@ -50,9 +36,25 @@ int main()
     size_t (*fptr)(const char*) = &strlen;
     void (*fpx)(const int*, size_t);
 
-    void (*fptrx)(int) = &function;
 
+
+
+ */
+
+
+#include <stdio.h>
+
+
+void function(int x)
+{
+    printf("Function started x = %d\n", x);
+}
+
+int main()
+{
+
+    void (* fptrx)(int) = &function;
+    fptrx(10);
 
     return 0;
-
 }
