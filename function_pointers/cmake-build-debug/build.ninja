@@ -55,12 +55,6 @@ build CMakeFiles/function_pointers.dir/main.c.obj: C_COMPILER__function_pointers
   OBJECT_DIR = CMakeFiles\function_pointers.dir
   OBJECT_FILE_DIR = CMakeFiles\function_pointers.dir
 
-build CMakeFiles/function_pointers.dir/mylibrary.c.obj: C_COMPILER__function_pointers_Debug E$:/C/C_Learning/function_pointers/mylibrary.c || cmake_object_order_depends_target_function_pointers
-  DEP_FILE = CMakeFiles\function_pointers.dir\mylibrary.c.obj.d
-  FLAGS = -g -std=gnu11
-  OBJECT_DIR = CMakeFiles\function_pointers.dir
-  OBJECT_FILE_DIR = CMakeFiles\function_pointers.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target function_pointers
@@ -69,7 +63,7 @@ build CMakeFiles/function_pointers.dir/mylibrary.c.obj: C_COMPILER__function_poi
 #############################################
 # Link the executable function_pointers.exe
 
-build function_pointers.exe: C_EXECUTABLE_LINKER__function_pointers_Debug CMakeFiles/function_pointers.dir/main.c.obj CMakeFiles/function_pointers.dir/mylibrary.c.obj
+build function_pointers.exe: C_EXECUTABLE_LINKER__function_pointers_Debug CMakeFiles/function_pointers.dir/main.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\function_pointers.dir

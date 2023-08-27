@@ -29,11 +29,16 @@
 
 
 #include <string.h>
-#include "mylibrary.h"
+#include <stdio.h>
 
 
 int foo(int);
 int func(int);
+
+void function(int x)
+{
+    printf("Function started x = %d\n", x);
+}
 
 int main()
 {
@@ -43,7 +48,10 @@ int main()
 
     int (*fpy)(const char*, const char*) = &strcmp;
     size_t (*fptr)(const char*) = &strlen;
-    void (*fpx)(const int*, size_t) = &print_array;
+    void (*fpx)(const int*, size_t);
+
+    void (*fptrx)(int) = &function;
+
 
     return 0;
 
