@@ -36,9 +36,6 @@
     size_t (*fptr)(const char*) = &strlen;
     void (*fpx)(const int*, size_t);
 
-
-
-
  */
 
 
