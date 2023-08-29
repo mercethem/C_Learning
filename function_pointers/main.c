@@ -36,6 +36,10 @@
     size_t (*fptr)(const char*) = &strlen;
     void (*fpx)(const int*, size_t);
 
+    ATTENTION: All sizeof value same of object pointers
+               All sizeof value same of function pointers
+               sizeof value of function pointers and object pointers can be DIFFERENT!!!
+
  */
 
 
@@ -47,11 +51,24 @@ void function(int x)
     printf("Function started x = %d\n", x);
 }
 
+void func(void)
+{
+    printf("Func called!\n");
+}
+
 int main()
 {
-
+    int* p = NULL;
     void (* fptrx)(int) = &function;
     fptrx(10);
+
+    void (*fp)(void);
+    fp = func;
+    fp(); //equal to (*fp)();
+    (*fp)();
+
+    printf("sizeof(f) = %zu\n", sizeof(fp));
+    printf("sizeof(p) = %zu\n", sizeof(p));
 
     return 0;
 }
