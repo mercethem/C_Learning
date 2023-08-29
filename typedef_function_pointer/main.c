@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
+
 typedef int (* FPTR)(const void*, const void*);
 
 
@@ -13,7 +14,6 @@ FPTR f3(FPTR, FPTR);
 
 int main()
 {
-
     FPTR fp;
 
     FPTR* fptr = &fp; //pointer to function pointer
