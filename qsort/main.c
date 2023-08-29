@@ -6,22 +6,20 @@
 #define     SIZE    100
 
 
-int icmp (const void* vpx, const void* vpy)
+int icmp(const void* vpx, const void* vpy)
 {
     int x = *(const int*)vpx;
     int y = *(const int*)vpy;
 
     return x > y ? 1 : x < y ? -1 : 0;
-
 }
 
-int dcmp (const void* vpx, const void* vpy)
+int dcmp(const void* vpx, const void* vpy)
 {
     double x = *(const double*)vpx;
     double y = *(const double*)vpy;
 
     return x > y ? 1 : x < y ? -1 : 0;
-
 }
 
 int main()
@@ -36,7 +34,7 @@ int main()
     print_array(a, SIZE);
 
     qsort(b, asize(b), sizeof(double), &dcmp);
-    for (size_t i = 0; i < asize(b) ; ++i) {
+    for (size_t i = 0; i < asize(b); ++i) {
         printf("%f\n", b[i]);
     }
 
