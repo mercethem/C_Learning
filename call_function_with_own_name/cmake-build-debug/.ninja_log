@@ -1,0 +1,6 @@
+# ninja log v5
+0	108	7151043236262524	CMakeFiles/call_function_with_own_name.dir/main.c.obj	70a7e67bcbff731e
+8	533	7151043240511271	CMakeFiles/call_function_with_own_name.dir/mylibrary.c.obj	eb5611ca6bf3b453
+535	629	7151043241423303	call_function_with_own_name.exe	59efb76813b04281
+2	102	7151043895003824	CMakeFiles/call_function_with_own_name.dir/main.c.obj	70a7e67bcbff731e
+102	168	7151043895611455	call_function_with_own_name.exe	59efb76813b04281
