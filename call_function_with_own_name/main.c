@@ -9,10 +9,10 @@ typedef int (* FTEST)(int);
 
 int main()
 {
-    FTEST fa[] = {&islower, &isupper, &isalpha, &isdigit, &isalnum, &isxdigit, &ispunct,
+    FTEST p_function[] = {&islower, &isupper, &isalpha, &isdigit, &isalnum, &isxdigit, &ispunct,
             &isspace, &isblank, &isgraph, &iscntrl};
 
-    const char* pa[] = {"islower", "isupper", "isalpha", "isdigit", "isalnum", "isxdigit",
+    const char* p_function_names[] = {"islower", "isupper", "isalpha", "isdigit", "isalnum", "isxdigit",
             "ispunct", "isspace", "isblank", "isgraph", "iscntrl"};
 
     char entry[40];
@@ -23,14 +23,14 @@ int main()
 
     size_t idx;
 
-    for (idx = 0; idx < asize(pa); ++idx) { // equal to ===> for (idx = 0; idx < asize(pa) && strcmp(pa[idx], entry); ++idx)
-        if (!strcmp(pa[idx], entry))        //                   ; //null statement
+    for (idx = 0; idx < asize(p_function_names); ++idx) { // equal to ===> for (idx = 0; idx < asize(p_function_names) && strcmp(p_function_names[idx], entry); ++idx)
+        if (!strcmp(p_function_names[idx], entry))        //                   ; //null statement
             break;                          //
     }
-    if (idx == asize(pa)) {
+    if (idx == asize(p_function_names)) {
         printf("%s is not exist!", entry);
     }
-    else if (fa[idx](ch)) {
+    else if (p_function[idx](ch)) {
         printf("%s is OK for %c character.", entry, ch);
     }
     else {
