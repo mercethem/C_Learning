@@ -33,6 +33,5 @@ int main()
     swap(ptr_min, ptr_max);
     print_array(a, SIZE);
 
-
     return 0;
 }
