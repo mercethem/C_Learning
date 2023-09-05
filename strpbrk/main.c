@@ -1,10 +1,13 @@
 //char* strpbrk(const char* psource, const char* pchars);
 
+
 #include <stdio.h>
 #include "mylibrary.h"
 #include <string.h>
 
+
 #define     SIZE    100
+
 
 int main()
 {
@@ -20,8 +23,6 @@ int main()
         printf("Found! Index is %lld\n", p - str);
         *p = '!';
         puts(str);
-
-
     }
     else {
         printf("UNFOUNDED!");
