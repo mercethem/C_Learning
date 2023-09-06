@@ -45,6 +45,7 @@
 
 #define     SIZE    100
 
+
 int mystrcmp(const char* p1, const char* p2)
 {
     while (*p1 == *p2)
@@ -54,7 +55,6 @@ int mystrcmp(const char* p1, const char* p2)
         ++p1;
         ++p2;
     }
-
     return *p1 - *p2;
 }
 
@@ -78,7 +78,6 @@ int main()
     }
     else {
         printf("%s = %s\n", s1, s2);
-
     }
 
     return 0;
