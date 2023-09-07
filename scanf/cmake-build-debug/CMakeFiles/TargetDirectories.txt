@@ -1,3 +1,0 @@
-E:/C/C_Learning/scanf/cmake-build-debug/CMakeFiles/scanf.dir
-E:/C/C_Learning/scanf/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/C/C_Learning/scanf/cmake-build-debug/CMakeFiles/rebuild_cache.dir

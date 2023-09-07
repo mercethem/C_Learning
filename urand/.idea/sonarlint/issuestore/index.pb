@@ -1,7 +1,0 @@
-
-;
-mylibrary.h,9\1\913aff0585444a04d866aa27086775250f186f82
-;
-mylibrary.c,7\8\78c1c01502a26ee736fbface563aeb3dbede9260
-6
-main.c,4\0\406e031b8824ea26ae0bf4d7579a1d89e3fb5906

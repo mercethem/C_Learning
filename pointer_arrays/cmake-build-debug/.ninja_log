@@ -1,7 +1,0 @@
-# ninja log v5
-0	100	7139729144806649	CMakeFiles/pointer_arrays.dir/main.c.obj	a00403baff66f868
-102	190	7139729145672392	pointer_arrays.exe	6d5fa5eabd817fc0
-2	93	7139729219529216	CMakeFiles/pointer_arrays.dir/main.c.obj	a00403baff66f868
-93	152	7139729220084291	pointer_arrays.exe	6d5fa5eabd817fc0
-1	96	7139729315540003	CMakeFiles/pointer_arrays.dir/main.c.obj	a00403baff66f868
-96	155	7139729316080942	pointer_arrays.exe	6d5fa5eabd817fc0

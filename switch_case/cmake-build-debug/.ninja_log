@@ -1,8 +1,0 @@
-# ninja log v5
-1	70	7034367649551928	build.ninja	b34dbfcf70a927b0
-0	54	7034367650215898	CMakeFiles/switch_case.dir/main.c.obj	c4d058d6355e14ab
-55	144	7034367651084615	switch_case.exe	4ed9930bf5e0861b
-1	47	7034368146939775	CMakeFiles/switch_case.dir/main.c.obj	c4d058d6355e14ab
-47	103	7034368147462035	switch_case.exe	4ed9930bf5e0861b
-1	49	7034368228388151	CMakeFiles/switch_case.dir/main.c.obj	c4d058d6355e14ab
-49	104	7034368228899348	switch_case.exe	4ed9930bf5e0861b

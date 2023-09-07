@@ -1,8 +1,0 @@
-# ninja log v5
-1	99	7119988641519547	CMakeFiles/reverse_copy_array.dir/main.c.obj	8ac280e18611fbec
-10	608	7119988646600004	CMakeFiles/reverse_copy_array.dir/mylibrary.c.obj	a881ec1d8ea3e02a
-609	692	7119988647412063	reverse_copy_array.exe	af99de704ca1df17
-1	93	7119988957719926	CMakeFiles/reverse_copy_array.dir/main.c.obj	8ac280e18611fbec
-93	152	7119988958268736	reverse_copy_array.exe	af99de704ca1df17
-2	137	7120221064550693	CMakeFiles/reverse_copy_array.dir/main.c.obj	8ac280e18611fbec
-137	224	7120221065374474	reverse_copy_array.exe	af99de704ca1df17

@@ -1,7 +1,0 @@
-# ninja log v5
-0	51	7021487583613311	CMakeFiles/limit_pi.dir/main.c.obj	1639f35a4d8d0458
-52	114	7021487584203343	limit_pi.exe	3da94af9c0f51fe9
-1	50	7021491106415817	CMakeFiles/limit_pi.dir/main.c.obj	1639f35a4d8d0458
-50	120	7021491107073947	limit_pi.exe	3da94af9c0f51fe9
-1	44	7021491806763908	CMakeFiles/limit_pi.dir/main.c.obj	1639f35a4d8d0458
-44	99	7021491807283463	limit_pi.exe	3da94af9c0f51fe9

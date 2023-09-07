@@ -1,3 +1,0 @@
-E:/C/C_Learning/deneme_cihat/cmake-build-debug/CMakeFiles/deneme_cihat.dir
-E:/C/C_Learning/deneme_cihat/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/C/C_Learning/deneme_cihat/cmake-build-debug/CMakeFiles/rebuild_cache.dir

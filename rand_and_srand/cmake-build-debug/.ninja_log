@@ -1,9 +1,0 @@
-# ninja log v5
-0	101	7074658090770640	CMakeFiles/rand_and_srand.dir/main.c.obj	7d868eb539c6c98c
-102	183	7074658091545714	rand_and_srand.exe	751b5351c4a8aa42
-1	48	7074658138331490	CMakeFiles/rand_and_srand.dir/main.c.obj	7d868eb539c6c98c
-48	100	7074658138821409	rand_and_srand.exe	751b5351c4a8aa42
-1	49	7074658243246086	CMakeFiles/rand_and_srand.dir/main.c.obj	7d868eb539c6c98c
-49	100	7074658243736709	rand_and_srand.exe	751b5351c4a8aa42
-1	49	7074659082462196	CMakeFiles/rand_and_srand.dir/main.c.obj	7d868eb539c6c98c
-49	103	7074659082972194	rand_and_srand.exe	751b5351c4a8aa42

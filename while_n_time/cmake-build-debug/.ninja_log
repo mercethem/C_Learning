@@ -1,9 +1,0 @@
-# ninja log v5
-0	57	7019612866030311	CMakeFiles/while_n_time.dir/main.c.obj	e1258c3656f19442
-57	218	7019612867613845	while_n_time.exe	9ff5f3ec6b4ab786
-0	48	7019618125079073	CMakeFiles/while_n_time.dir/main.c.obj	e1258c3656f19442
-48	102	7019618125598206	while_n_time.exe	9ff5f3ec6b4ab786
-1	49	7019618354228603	CMakeFiles/while_n_time.dir/main.c.obj	e1258c3656f19442
-50	104	7019618354747947	while_n_time.exe	9ff5f3ec6b4ab786
-1	45	7019618664315320	CMakeFiles/while_n_time.dir/main.c.obj	e1258c3656f19442
-45	95	7019618664785687	while_n_time.exe	9ff5f3ec6b4ab786

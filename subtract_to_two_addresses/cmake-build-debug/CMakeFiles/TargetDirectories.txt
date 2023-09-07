@@ -1,3 +1,0 @@
-E:/C/C_Learning/subtract_to_two_addresses/cmake-build-debug/CMakeFiles/subtract_to_two_addresses.dir
-E:/C/C_Learning/subtract_to_two_addresses/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/C/C_Learning/subtract_to_two_addresses/cmake-build-debug/CMakeFiles/rebuild_cache.dir

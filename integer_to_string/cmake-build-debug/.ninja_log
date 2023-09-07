@@ -1,8 +1,0 @@
-# ninja log v5
-0	102	7099743667556204	CMakeFiles/integer_to_string.dir/main.c.obj	c6ec2ba45cc7c64a
-8	507	7099743671610627	CMakeFiles/integer_to_string.dir/mylibrary.c.obj	74929b7ac0b6b70c
-508	592	7099743672425451	integer_to_string.exe	a8cbabb1e01754b7
-2	97	7099744013741239	CMakeFiles/integer_to_string.dir/main.c.obj	c6ec2ba45cc7c64a
-97	156	7099744014295496	integer_to_string.exe	a8cbabb1e01754b7
-2	98	7099745358867887	CMakeFiles/integer_to_string.dir/main.c.obj	c6ec2ba45cc7c64a
-98	161	7099745359456686	integer_to_string.exe	a8cbabb1e01754b7

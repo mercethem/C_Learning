@@ -1,5 +1,0 @@
-# ninja log v5
-1	48	7006100190959709	CMakeFiles/hello_world.dir/main.c.obj	26a84cc75cecff8d
-49	178	7006100192229565	hello_world.exe	5619da47a0323047
-0	88	7010184939792414	CMakeFiles/hello_world.dir/main.c.obj	26a84cc75cecff8d
-88	277	7010184941645496	hello_world.exe	5619da47a0323047

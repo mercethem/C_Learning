@@ -1,4 +1,0 @@
-# ninja log v5
-0	106	7118444196655379	CMakeFiles/max_and_min.dir/main.c.obj	8659c16dbdd5eba7
-8	548	7118444201072243	CMakeFiles/max_and_min.dir/mylibrary.c.obj	3015c7fc76a81c07
-549	635	7118444201906326	max_and_min.exe	555a4509c8c61475

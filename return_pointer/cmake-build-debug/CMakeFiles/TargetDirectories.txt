@@ -1,3 +1,0 @@
-E:/C/C_Learning/return_pointer/cmake-build-debug/CMakeFiles/return_pointer.dir
-E:/C/C_Learning/return_pointer/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/C/C_Learning/return_pointer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

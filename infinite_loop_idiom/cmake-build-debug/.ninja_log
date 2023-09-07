@@ -1,9 +1,0 @@
-# ninja log v5
-0	53	7019694515202414	CMakeFiles/infinite_loop_idiom.dir/main.c.obj	b511711522b8ddec
-54	113	7019694515771110	infinite_loop_idiom.exe	d8cf260530b93f3c
-2	52	7019694606609655	CMakeFiles/infinite_loop_idiom.dir/main.c.obj	b511711522b8ddec
-52	106	7019694607125386	infinite_loop_idiom.exe	d8cf260530b93f3c
-2	50	7019696155995394	CMakeFiles/infinite_loop_idiom.dir/main.c.obj	b511711522b8ddec
-50	110	7019696156553874	infinite_loop_idiom.exe	d8cf260530b93f3c
-1	50	7019696455979462	CMakeFiles/infinite_loop_idiom.dir/main.c.obj	b511711522b8ddec
-50	99	7019696456438659	infinite_loop_idiom.exe	d8cf260530b93f3c

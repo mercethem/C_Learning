@@ -1,6 +1,0 @@
-# ninja log v5
-0	100	7126781452902229	CMakeFiles/selection_sort_algorithm.dir/main.c.obj	676d76cb3ad73a3d
-8	599	7126781457885682	CMakeFiles/selection_sort_algorithm.dir/mylibrary.c.obj	951df783922b4eb5
-600	687	7126781458724228	selection_sort_algorithm.exe	17ae823150f68191
-1	93	7126781686722184	CMakeFiles/selection_sort_algorithm.dir/main.c.obj	676d76cb3ad73a3d
-93	152	7126781687253165	selection_sort_algorithm.exe	17ae823150f68191

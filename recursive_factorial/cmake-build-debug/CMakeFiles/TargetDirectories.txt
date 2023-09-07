@@ -1,3 +1,0 @@
-E:/C/C_Learning/recursive_factorial/cmake-build-debug/CMakeFiles/recursive_factorial.dir
-E:/C/C_Learning/recursive_factorial/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/C/C_Learning/recursive_factorial/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-E:/C/C_Learning/pointers_and_comparison_operators/cmake-build-debug/CMakeFiles/pointers_and_comparison_operators.dir
-E:/C/C_Learning/pointers_and_comparison_operators/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/C/C_Learning/pointers_and_comparison_operators/cmake-build-debug/CMakeFiles/rebuild_cache.dir

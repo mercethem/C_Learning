@@ -1,3 +1,0 @@
-E:/C/C_Learning/quick_sort/cmake-build-debug/CMakeFiles/quick_sort.dir
-E:/C/C_Learning/quick_sort/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/C/C_Learning/quick_sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

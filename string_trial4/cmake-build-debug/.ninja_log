@@ -1,6 +1,0 @@
-# ninja log v5
-0	104	7098922489509398	CMakeFiles/string_trial4.dir/main.c.obj	945920c7cf2d09fc
-9	545	7098922493920847	CMakeFiles/string_trial4.dir/mylibrary.c.obj	82217b2d825fe81e
-546	632	7098922494766185	string_trial4.exe	414f301b45d51cf8
-1	95	7098923257488611	CMakeFiles/string_trial4.dir/main.c.obj	945920c7cf2d09fc
-96	158	7098923258077616	string_trial4.exe	414f301b45d51cf8

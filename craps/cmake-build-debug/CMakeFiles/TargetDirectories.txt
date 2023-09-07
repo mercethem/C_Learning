@@ -1,3 +1,0 @@
-E:/C/C_Learning/craps/cmake-build-debug/CMakeFiles/craps.dir
-E:/C/C_Learning/craps/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/C/C_Learning/craps/cmake-build-debug/CMakeFiles/rebuild_cache.dir

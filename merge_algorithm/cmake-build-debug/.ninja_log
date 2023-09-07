@@ -1,5 +1,0 @@
-# ninja log v5
-1	123	7098011260782184	CMakeFiles/merge_algorithm.dir/main.c.obj	db7b0cba7eb3669b
-2	116	7098039164629021	CMakeFiles/merge_algorithm.dir/main.c.obj	db7b0cba7eb3669b
-5	511	7098039168571620	CMakeFiles/merge_algorithm.dir/mylibrary.c.obj	3274d88b7e832c95
-512	608	7098039169511542	merge_algorithm.exe	bee680343916ddea

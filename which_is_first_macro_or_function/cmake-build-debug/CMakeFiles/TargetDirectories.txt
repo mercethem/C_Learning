@@ -1,3 +1,0 @@
-E:/C/C_Learning/which_is_first_macro_or_function/cmake-build-debug/CMakeFiles/which_is_first_macro_or_function.dir
-E:/C/C_Learning/which_is_first_macro_or_function/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/C/C_Learning/which_is_first_macro_or_function/cmake-build-debug/CMakeFiles/rebuild_cache.dir

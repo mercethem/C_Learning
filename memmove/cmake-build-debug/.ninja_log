@@ -1,5 +1,0 @@
-# ninja log v5
-1	83	7146128716071110	CMakeFiles/memmove.dir/main.c.obj	a2c45a9259f0342d
-7	580	7146126184473806	CMakeFiles/memmove.dir/mylibrary.c.obj	5cd7f75018b60e17
-0	84	7146128743276638	build.ninja	5ebde3592d0aedab
-83	154	7146128716736395	memmove.exe	728571fbd72d7f87

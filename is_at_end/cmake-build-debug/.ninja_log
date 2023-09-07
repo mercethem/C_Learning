@@ -1,6 +1,0 @@
-# ninja log v5
-0	108	7131714183684999	CMakeFiles/is_at_end.dir/main.c.obj	adca5fdf34c2b02b
-9	824	7131714190831160	CMakeFiles/is_at_end.dir/mylibrary.c.obj	3444e54c56a1ed65
-825	904	7131714191586920	is_at_end.exe	a04ce2dffbaf22f
-2	95	7131714596203173	CMakeFiles/is_at_end.dir/main.c.obj	adca5fdf34c2b02b
-96	158	7131714596784088	is_at_end.exe	a04ce2dffbaf22f
