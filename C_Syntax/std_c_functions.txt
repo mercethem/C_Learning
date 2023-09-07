@@ -1,0 +1,28 @@
+I have learned this includes and functions
+
+<stdio.h>
+int printf(const char *, ...);
+int scanf(const char *, ...);
+int putchar(int);
+int getchar(int);
+
+<ctype.h> //Character Type
+int isupper(int);
+int islower(int);
+int isalpha(int);
+int isalnum(int);
+int isxdigit(int);
+int ispunct(int);
+int isspace(int);
+int isblank(int);
+int isprint(int);
+int isgraph(int);
+int iscntrl(int);
+int toupper(int);
+int tolower(int);
+
+<math.h>
+double sqrt(double);
+double pow(double, double);
+
+
