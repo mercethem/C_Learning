@@ -1,0 +1,20 @@
+# ninja log v5
+0	48	7158165919577800	CMakeFiles/link_list.dir/main.c.obj	4ac7b535715fafe1
+48	116	7158165920225027	link_list.exe	53cef13a6bc8c9ad
+1	37	7158184527008223	CMakeFiles/link_list.dir/linked_list.c.obj	a21f708fbc98f8e5
+3	52	7158184527155492	CMakeFiles/link_list.dir/main.c.obj	4ac7b535715fafe1
+52	117	7158184527783278	link_list.exe	ce86bffa90afca72
+1	47	7158184649937092	CMakeFiles/link_list.dir/main.c.obj	4ac7b535715fafe1
+47	103	7158184650461618	link_list.exe	ce86bffa90afca72
+1	46	7158185414016669	CMakeFiles/link_list.dir/main.c.obj	4ac7b535715fafe1
+46	107	7158185414583334	link_list.exe	ce86bffa90afca72
+2	52	7158185446699257	CMakeFiles/link_list.dir/main.c.obj	4ac7b535715fafe1
+52	127	7158185447411461	link_list.exe	ce86bffa90afca72
+2	50	7158195099492567	CMakeFiles/link_list.dir/main.c.obj	4ac7b535715fafe1
+50	108	7158195100049115	link_list.exe	ce86bffa90afca72
+1	45	7158195445464924	CMakeFiles/link_list.dir/main.c.obj	4ac7b535715fafe1
+45	100	7158195445987043	link_list.exe	ce86bffa90afca72
+1	43	7158195527290832	CMakeFiles/link_list.dir/main.c.obj	4ac7b535715fafe1
+43	98	7158195527807606	link_list.exe	ce86bffa90afca72
+1	45	7158195748636412	CMakeFiles/link_list.dir/main.c.obj	4ac7b535715fafe1
+45	102	7158195749172991	link_list.exe	ce86bffa90afca72

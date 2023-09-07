@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include <stdio.h>
 
 struct n
 {
@@ -11,10 +12,24 @@ typedef struct n node;
 int main()
 {
     node* root;
+
     root = (node*)malloc(sizeof(node));
     root -> x = 10;
-    root -> next ->x = 10;
-    for (int i = 1; i <=3 ; ++i) {
-        
-    }
+
+    root -> next = (node*)malloc(sizeof(node));
+    root -> next -> x = 20;
+
+    root -> next ->  next = (node*)malloc(sizeof(node));
+    root -> next -> next -> x = 30;
+
+    node * iter;
+    iter = root;
+
+    printf("%d\n", iter -> x);
+
+    iter = iter -> next;
+    printf("%d\n", iter -> x);
+
+    iter = iter -> next;
+    printf("%d\n", iter -> x);
 }
