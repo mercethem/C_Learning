@@ -16,11 +16,11 @@ struct n
 typedef struct n node;
 
 
-void listprint(node* root)
+void print_list(node* iter)
 {
-    while (root != NULL) {
-        printf("%d ", root -> data);
-        root = root -> next;
+    while (iter != NULL) {
+        printf("%d ", iter -> data);
+        iter = iter -> next;
     }
 }
 
