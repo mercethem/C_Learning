@@ -1,0 +1,18 @@
+# ninja log v5
+1	97	7148488062239071	CMakeFiles/function_pointers.dir/main.c.obj	109dec42ff03e1ec
+9	663	7148487362234220	CMakeFiles/function_pointers.dir/mylibrary.c.obj	e0e8438f85b978de
+1	90	7148488874723141	CMakeFiles/function_pointers.dir/main.c.obj	109dec42ff03e1ec
+1	91	7148489339958471	CMakeFiles/function_pointers.dir/main.c.obj	109dec42ff03e1ec
+91	151	7148489340496312	function_pointers.exe	b8cbc596552a95c5
+1	170	7150130926634742	CMakeFiles/function_pointers.dir/main.c.obj	109dec42ff03e1ec
+170	287	7150130927769482	function_pointers.exe	b8cbc596552a95c5
+1	95	7150131119765691	CMakeFiles/function_pointers.dir/main.c.obj	109dec42ff03e1ec
+95	159	7150131120379306	function_pointers.exe	b8cbc596552a95c5
+1	96	7150131187437918	CMakeFiles/function_pointers.dir/main.c.obj	109dec42ff03e1ec
+98	158	7150131188014016	function_pointers.exe	b8cbc596552a95c5
+1	107	7150131343357154	CMakeFiles/function_pointers.dir/main.c.obj	109dec42ff03e1ec
+107	170	7150131343936806	function_pointers.exe	b8cbc596552a95c5
+1	103	7150135890320360	CMakeFiles/function_pointers.dir/main.c.obj	109dec42ff03e1ec
+103	164	7150135890893101	function_pointers.exe	b8cbc596552a95c5
+1	96	7150136284602805	CMakeFiles/function_pointers.dir/main.c.obj	109dec42ff03e1ec
+96	155	7150136285158277	function_pointers.exe	b8cbc596552a95c5

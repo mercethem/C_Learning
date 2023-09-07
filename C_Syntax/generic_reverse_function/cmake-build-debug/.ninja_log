@@ -1,0 +1,6 @@
+# ninja log v5
+0	106	7146192217605890	CMakeFiles/generic_reverse_function.dir/main.c.obj	2f380316dac1fff9
+7	529	7146192221844626	CMakeFiles/generic_reverse_function.dir/mylibrary.c.obj	df22736d20285098
+530	613	7146192222647024	generic_reverse_function.exe	e679c7c207f30373
+2	103	7146193807307200	CMakeFiles/generic_reverse_function.dir/main.c.obj	2f380316dac1fff9
+103	171	7146193807929336	generic_reverse_function.exe	e679c7c207f30373

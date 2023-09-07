@@ -1,0 +1,17 @@
+# ninja log v5
+0	140	7015296880066449	CMakeFiles/relational_operators.dir/main.c.obj	c9d5945a64c12c69
+142	333	7015296881962136	relational_operators.exe	8599c105dd5fc90d
+1	47	7015297108287654	CMakeFiles/relational_operators.dir/main.c.obj	c9d5945a64c12c69
+47	105	7015297108827653	relational_operators.exe	8599c105dd5fc90d
+1	47	7015297342413157	CMakeFiles/relational_operators.dir/main.c.obj	c9d5945a64c12c69
+47	98	7015297342903449	relational_operators.exe	8599c105dd5fc90d
+1	45	7015297557093045	CMakeFiles/relational_operators.dir/main.c.obj	c9d5945a64c12c69
+45	100	7015297557603041	relational_operators.exe	8599c105dd5fc90d
+1	47	7015297668606258	CMakeFiles/relational_operators.dir/main.c.obj	c9d5945a64c12c69
+47	103	7015297669137337	relational_operators.exe	8599c105dd5fc90d
+1	45	7015298173118880	CMakeFiles/relational_operators.dir/main.c.obj	c9d5945a64c12c69
+45	100	7015298173638876	relational_operators.exe	8599c105dd5fc90d
+1	48	7015298676301083	CMakeFiles/relational_operators.dir/main.c.obj	c9d5945a64c12c69
+48	108	7015298676862181	relational_operators.exe	8599c105dd5fc90d
+1	49	7015304115103457	CMakeFiles/relational_operators.dir/main.c.obj	c9d5945a64c12c69
+49	103	7015304115604096	relational_operators.exe	8599c105dd5fc90d

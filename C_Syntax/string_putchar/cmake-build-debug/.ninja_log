@@ -1,0 +1,9 @@
+# ninja log v5
+0	141	7129979124062297	CMakeFiles/string_putchar.dir/main.c.obj	710d08c669627a3b
+142	241	7129979125006066	string_putchar.exe	2be4d2cb432e93d2
+2	127	7129979391553751	CMakeFiles/string_putchar.dir/main.c.obj	710d08c669627a3b
+127	204	7129979392274498	string_putchar.exe	2be4d2cb432e93d2
+2	107	7129980620764121	CMakeFiles/string_putchar.dir/main.c.obj	710d08c669627a3b
+108	178	7129980621430755	string_putchar.exe	2be4d2cb432e93d2
+1	124	7129982386163048	CMakeFiles/string_putchar.dir/main.c.obj	710d08c669627a3b
+124	197	7129982386827023	string_putchar.exe	2be4d2cb432e93d2

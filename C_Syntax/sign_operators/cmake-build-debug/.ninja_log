@@ -1,0 +1,21 @@
+# ninja log v5
+1	50	7014520084080684	CMakeFiles/sign_operators.dir/main.c.obj	67aea69da6c42359
+50	207	7014520085620479	sign_operators.exe	9aacda098d5a0a4b
+1	47	7014520228977954	CMakeFiles/sign_operators.dir/main.c.obj	67aea69da6c42359
+47	101	7014520229487952	sign_operators.exe	9aacda098d5a0a4b
+1	47	7014520437688090	CMakeFiles/sign_operators.dir/main.c.obj	67aea69da6c42359
+47	103	7014520438208084	sign_operators.exe	9aacda098d5a0a4b
+0	43	7014520618552597	CMakeFiles/sign_operators.dir/main.c.obj	67aea69da6c42359
+43	95	7014520619042593	sign_operators.exe	9aacda098d5a0a4b
+1	45	7014520704285598	CMakeFiles/sign_operators.dir/main.c.obj	67aea69da6c42359
+45	99	7014520704796646	sign_operators.exe	9aacda098d5a0a4b
+1	45	7014521304588601	CMakeFiles/sign_operators.dir/main.c.obj	67aea69da6c42359
+45	98	7014521305098595	sign_operators.exe	9aacda098d5a0a4b
+1	47	7014521408285055	CMakeFiles/sign_operators.dir/main.c.obj	67aea69da6c42359
+47	108	7014521408855752	sign_operators.exe	9aacda098d5a0a4b
+1	43	7014521517565507	CMakeFiles/sign_operators.dir/main.c.obj	67aea69da6c42359
+43	97	7014521518076616	sign_operators.exe	9aacda098d5a0a4b
+1	46	7014521620494562	CMakeFiles/sign_operators.dir/main.c.obj	67aea69da6c42359
+46	106	7014521621061291	sign_operators.exe	9aacda098d5a0a4b
+1	43	7014521707931013	CMakeFiles/sign_operators.dir/main.c.obj	67aea69da6c42359
+43	96	7014521708430435	sign_operators.exe	9aacda098d5a0a4b

@@ -1,0 +1,13 @@
+# ninja log v5
+1	43	7025022290328528	CMakeFiles/which_is_first_macro_or_function.dir/main.c.obj	e893e344dea82891
+43	104	7025022290907306	which_is_first_macro_or_function.exe	f36a2136a5af19d1
+1	42	7025022703073184	CMakeFiles/which_is_first_macro_or_function.dir/main.c.obj	e893e344dea82891
+42	93	7025022703552928	which_is_first_macro_or_function.exe	f36a2136a5af19d1
+0	44	7025022771122324	CMakeFiles/which_is_first_macro_or_function.dir/main.c.obj	e893e344dea82891
+44	97	7025022771620988	which_is_first_macro_or_function.exe	f36a2136a5af19d1
+0	41	7025023113333457	CMakeFiles/which_is_first_macro_or_function.dir/main.c.obj	e893e344dea82891
+41	93	7025023113833667	which_is_first_macro_or_function.exe	f36a2136a5af19d1
+1	43	7025023370400479	CMakeFiles/which_is_first_macro_or_function.dir/main.c.obj	e893e344dea82891
+43	97	7025023370916900	which_is_first_macro_or_function.exe	f36a2136a5af19d1
+1	42	7025024570254359	CMakeFiles/which_is_first_macro_or_function.dir/main.c.obj	e893e344dea82891
+43	97	7025024570773557	which_is_first_macro_or_function.exe	f36a2136a5af19d1

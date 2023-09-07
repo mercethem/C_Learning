@@ -1,0 +1,5 @@
+# ninja log v5
+1	46	7023517950113740	CMakeFiles/print_prime_factors.dir/main.c.obj	54760ccb33818346
+46	99	7023517950614705	print_prime_factors.exe	629ed03d2fab92b9
+1	53	7023524808458030	CMakeFiles/print_prime_factors.dir/main.c.obj	54760ccb33818346
+53	114	7023524809030001	print_prime_factors.exe	629ed03d2fab92b9

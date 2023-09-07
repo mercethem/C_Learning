@@ -1,0 +1,14 @@
+# ninja log v5
+0	97	7116175104035449	CMakeFiles/standard_deviation.dir/main.c.obj	f8941168cc52738e
+3	506	7116175108131367	CMakeFiles/standard_deviation.dir/mylibrary.c.obj	5fccc24a2e9e9e93
+507	593	7116175108950277	standard_deviation.exe	90588e80b9762bbf
+2	101	7116177778644323	CMakeFiles/standard_deviation.dir/main.c.obj	f8941168cc52738e
+101	167	7116177779280871	standard_deviation.exe	90588e80b9762bbf
+1	97	7116178042980053	CMakeFiles/standard_deviation.dir/main.c.obj	f8941168cc52738e
+98	158	7116178043541088	standard_deviation.exe	90588e80b9762bbf
+1	92	7116178716669985	CMakeFiles/standard_deviation.dir/main.c.obj	f8941168cc52738e
+92	152	7116178717234195	standard_deviation.exe	90588e80b9762bbf
+1	101	7116179485946551	CMakeFiles/standard_deviation.dir/main.c.obj	f8941168cc52738e
+103	168	7116179486570154	standard_deviation.exe	90588e80b9762bbf
+1	99	7116179573318524	CMakeFiles/standard_deviation.dir/main.c.obj	f8941168cc52738e
+100	159	7116179573872853	standard_deviation.exe	90588e80b9762bbf

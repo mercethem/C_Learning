@@ -1,0 +1,19 @@
+# ninja log v5
+1	98	7130244483413648	build.ninja	95df8690ff026e3b
+0	102	7130244431433729	CMakeFiles/strchr.dir/main.c.obj	d244f3bd7409fa7d
+8	532	7130244435733221	CMakeFiles/strchr.dir/mylibrary.c.obj	62e2f21bad9b1af6
+533	613	7130244436493324	strchr.exe	dc3cbe17568af65d
+2	101	7130254489213008	CMakeFiles/strchr.dir/main.c.obj	d244f3bd7409fa7d
+101	168	7130254489864599	strchr.exe	dc3cbe17568af65d
+2	97	7130254699679760	CMakeFiles/strchr.dir/main.c.obj	d244f3bd7409fa7d
+97	155	7130254700226899	strchr.exe	dc3cbe17568af65d
+2	198	7130802524248909	CMakeFiles/strchr.dir/main.c.obj	d244f3bd7409fa7d
+198	312	7130802525345146	strchr.exe	dc3cbe17568af65d
+1	102	7130802864904394	CMakeFiles/strchr.dir/main.c.obj	d244f3bd7409fa7d
+102	166	7130802865517039	strchr.exe	dc3cbe17568af65d
+1	119	7130804247210830	CMakeFiles/strchr.dir/main.c.obj	d244f3bd7409fa7d
+119	184	7130804247818428	strchr.exe	dc3cbe17568af65d
+2	106	7130809174314955	CMakeFiles/strchr.dir/main.c.obj	d244f3bd7409fa7d
+106	169	7130809174897955	strchr.exe	dc3cbe17568af65d
+2	103	7130811293011925	CMakeFiles/strchr.dir/main.c.obj	d244f3bd7409fa7d
+104	171	7130811293661830	strchr.exe	dc3cbe17568af65d

@@ -1,0 +1,24 @@
+# ninja log v5
+5	45	7035282460332186	CMakeFiles/mylibrary.dir/mylibrary.c.obj	85cbef64599eb5c9
+0	52	7035282460412185	CMakeFiles/mylibrary.dir/main.c.obj	c5deca2deedeb6a6
+54	118	7035282461038526	mylibrary.exe	34b36def6ae9608c
+1	56	7035294190814416	CMakeFiles/mylibrary.dir/main.c.obj	c5deca2deedeb6a6
+56	112	7035294191345511	mylibrary.exe	34b36def6ae9608c
+1	48	7035294278609651	CMakeFiles/mylibrary.dir/main.c.obj	c5deca2deedeb6a6
+49	104	7035294279139645	mylibrary.exe	34b36def6ae9608c
+1	48	7035294583739643	CMakeFiles/mylibrary.dir/main.c.obj	c5deca2deedeb6a6
+48	103	7035294584260394	mylibrary.exe	34b36def6ae9608c
+1	54	7035294841228682	CMakeFiles/mylibrary.dir/main.c.obj	c5deca2deedeb6a6
+54	116	7035294841829327	mylibrary.exe	34b36def6ae9608c
+1	47	7035295056701119	CMakeFiles/mylibrary.dir/main.c.obj	c5deca2deedeb6a6
+47	101	7035295057211448	mylibrary.exe	34b36def6ae9608c
+1	54	7035295158608975	CMakeFiles/mylibrary.dir/main.c.obj	c5deca2deedeb6a6
+54	110	7035295159138969	mylibrary.exe	34b36def6ae9608c
+3	40	7035301324496730	CMakeFiles/mylibrary.dir/mylibrary.c.obj	85cbef64599eb5c9
+1	49	7035301324596808	CMakeFiles/mylibrary.dir/main.c.obj	c5deca2deedeb6a6
+3	48	7035315340814483	CMakeFiles/mylibrary.dir/mylibrary.c.obj	85cbef64599eb5c9
+0	48	7035315340814483	CMakeFiles/mylibrary.dir/main.c.obj	c5deca2deedeb6a6
+48	108	7035315341375041	mylibrary.exe	34b36def6ae9608c
+1	59	7040318481187740	CMakeFiles/mylibrary.dir/main.c.obj	c5deca2deedeb6a6
+6	60	7040318481197742	CMakeFiles/mylibrary.dir/mylibrary.c.obj	85cbef64599eb5c9
+60	126	7040318481822107	mylibrary.exe	34b36def6ae9608c

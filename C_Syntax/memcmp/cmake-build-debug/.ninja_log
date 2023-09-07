@@ -1,0 +1,13 @@
+# ninja log v5
+1	109	7146142135997219	CMakeFiles/memcmp.dir/main.c.obj	cb8f717d8b1c2115
+111	184	7146142136706523	memcmp.exe	8c20e49b2fdfab4c
+1	103	7146142317205976	CMakeFiles/memcmp.dir/main.c.obj	cb8f717d8b1c2115
+103	167	7146142317803780	memcmp.exe	8c20e49b2fdfab4c
+1	88	7146143508447470	CMakeFiles/memcmp.dir/main.c.obj	cb8f717d8b1c2115
+89	146	7146143508979602	memcmp.exe	8c20e49b2fdfab4c
+1	90	7146143647456654	CMakeFiles/memcmp.dir/main.c.obj	cb8f717d8b1c2115
+90	146	7146143647991440	memcmp.exe	8c20e49b2fdfab4c
+1	91	7146143724571268	CMakeFiles/memcmp.dir/main.c.obj	cb8f717d8b1c2115
+92	151	7146143725115872	memcmp.exe	8c20e49b2fdfab4c
+1	88	7146143919256506	CMakeFiles/memcmp.dir/main.c.obj	cb8f717d8b1c2115
+88	144	7146143919789302	memcmp.exe	8c20e49b2fdfab4c

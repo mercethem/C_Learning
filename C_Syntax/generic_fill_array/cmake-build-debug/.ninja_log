@@ -1,0 +1,8 @@
+# ninja log v5
+0	103	7146871487429155	CMakeFiles/generic_fill_array.dir/main.c.obj	25a7e03f0c9c5ec4
+7	599	7146871492379244	CMakeFiles/generic_fill_array.dir/mylibrary.c.obj	121a7f065dc63968
+600	680	7146871493166589	generic_fill_array.exe	909f519ed184018a
+2	93	7146871906230570	CMakeFiles/generic_fill_array.dir/main.c.obj	25a7e03f0c9c5ec4
+93	157	7146871906825772	generic_fill_array.exe	909f519ed184018a
+1	97	7146872125099997	CMakeFiles/generic_fill_array.dir/main.c.obj	25a7e03f0c9c5ec4
+97	158	7146872125669307	generic_fill_array.exe	909f519ed184018a

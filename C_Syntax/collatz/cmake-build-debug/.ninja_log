@@ -1,0 +1,21 @@
+# ninja log v5
+0	46	7019841990297430	CMakeFiles/collatz.dir/main.c.obj	e29bcbb6f78c92df
+46	107	7019841990875053	collatz.exe	f88e8ab277863a8c
+1	46	7019842593701681	CMakeFiles/collatz.dir/main.c.obj	e29bcbb6f78c92df
+46	103	7019842594240290	collatz.exe	f88e8ab277863a8c
+1	47	7019843768880439	CMakeFiles/collatz.dir/main.c.obj	e29bcbb6f78c92df
+47	104	7019843769419132	collatz.exe	f88e8ab277863a8c
+1	46	7019844780990525	CMakeFiles/collatz.dir/main.c.obj	e29bcbb6f78c92df
+46	103	7019844781530048	collatz.exe	f88e8ab277863a8c
+1	46	7019845149688115	CMakeFiles/collatz.dir/main.c.obj	e29bcbb6f78c92df
+46	107	7019845150276402	collatz.exe	f88e8ab277863a8c
+1	47	7019845417744288	CMakeFiles/collatz.dir/main.c.obj	e29bcbb6f78c92df
+47	101	7019845418256293	collatz.exe	f88e8ab277863a8c
+1	47	7019845702718729	CMakeFiles/collatz.dir/main.c.obj	e29bcbb6f78c92df
+47	108	7019845703306760	collatz.exe	f88e8ab277863a8c
+1	49	7019845809791483	CMakeFiles/collatz.dir/main.c.obj	e29bcbb6f78c92df
+49	108	7019845810353898	collatz.exe	f88e8ab277863a8c
+1	44	7019845862751350	CMakeFiles/collatz.dir/main.c.obj	e29bcbb6f78c92df
+44	98	7019845863270679	collatz.exe	f88e8ab277863a8c
+1	47	7019846199545654	CMakeFiles/collatz.dir/main.c.obj	e29bcbb6f78c92df
+48	109	7019846200136074	collatz.exe	f88e8ab277863a8c
