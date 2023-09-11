@@ -1,0 +1,7 @@
+# ninja log v5
+0	45	7161439089206543	CMakeFiles/circular_link_list.dir/main.c.obj	87cbe5a2a1164fbd
+45	99	7161439089714894	circular_link_list.exe	a6b63dea35cb4c92
+1	48	7161446052210186	CMakeFiles/circular_link_list.dir/main.c.obj	87cbe5a2a1164fbd
+48	103	7161446052728954	circular_link_list.exe	a6b63dea35cb4c92
+1	46	7161448198499149	CMakeFiles/circular_link_list.dir/main.c.obj	87cbe5a2a1164fbd
+46	100	7161448199012897	circular_link_list.exe	a6b63dea35cb4c92
