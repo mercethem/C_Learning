@@ -67,7 +67,7 @@ int main()
         iter -> next = NULL;
     }
 
-    listprint(root);
+    print_list(root);
 
 
     return 0;

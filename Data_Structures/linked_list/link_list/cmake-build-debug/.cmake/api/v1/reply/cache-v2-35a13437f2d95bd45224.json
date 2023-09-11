@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "e:/C_Learning/Data_Structures/link_list/cmake-build-debug"
+			"value" : "e:/C_Learning/Data_Structures/linked_list/link_list/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "E:/C_Learning/Data_Structures/link_list"
+			"value" : "E:/C_Learning/Data_Structures/linked_list/link_list"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1095,7 +1095,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/C_Learning/Data_Structures/link_list/cmake-build-debug"
+			"value" : "E:/C_Learning/Data_Structures/linked_list/link_list/cmake-build-debug"
 		},
 		{
 			"name" : "link_list_IS_TOP_LEVEL",
@@ -1119,7 +1119,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/C_Learning/Data_Structures/link_list"
+			"value" : "E:/C_Learning/Data_Structures/linked_list/link_list"
 		}
 	],
 	"kind" : "cache",

@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "E:/C_Learning/Data_Structures/link_list/cmake-build-debug",
-		"source" : "E:/C_Learning/Data_Structures/link_list"
+		"build" : "E:/C_Learning/Data_Structures/linked_list/link_list/cmake-build-debug",
+		"source" : "E:/C_Learning/Data_Structures/linked_list/link_list"
 	},
 	"version" : 
 	{
