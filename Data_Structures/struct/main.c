@@ -56,4 +56,6 @@ int main()
     printf("Person 2: %llu %s %s %i\n", person2 -> identity_id, person2 -> name, person2 -> surname, person2 -> age);
     printf("Person 3: %llu %s %s %i\n", person3 . identity_id, person3 . name, person3 . surname, person3 . age);
     printf("Person 4: %llu %s %s %i\n", person4 -> identity_id, person4 -> name, person4 -> surname, person4 -> age);
+
+    return 0;
 }
