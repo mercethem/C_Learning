@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = E$:/C_Learning/Data_Structures/linked_list_insert_node/cmake-build-debug/
+cmake_ninja_workdir = E$:/C_Learning/Data_Structures/linked_list/linked_list_insert_node/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target linked_list_insert_node
 
@@ -49,7 +49,7 @@ cmake_ninja_workdir = E$:/C_Learning/Data_Structures/linked_list_insert_node/cma
 
 build cmake_object_order_depends_target_linked_list_insert_node: phony || CMakeFiles/linked_list_insert_node.dir
 
-build CMakeFiles/linked_list_insert_node.dir/main.c.obj: C_COMPILER__linked_list_insert_node_Debug E$:/C_Learning/Data_Structures/linked_list_insert_node/main.c || cmake_object_order_depends_target_linked_list_insert_node
+build CMakeFiles/linked_list_insert_node.dir/main.c.obj: C_COMPILER__linked_list_insert_node_Debug E$:/C_Learning/Data_Structures/linked_list/linked_list_insert_node/main.c || cmake_object_order_depends_target_linked_list_insert_node
   DEP_FILE = CMakeFiles\linked_list_insert_node.dir\main.c.obj.d
   FLAGS = -g -std=gnu11
   OBJECT_DIR = CMakeFiles\linked_list_insert_node.dir
@@ -81,7 +81,7 @@ build linked_list_insert_node.exe: C_EXECUTABLE_LINKER__linked_list_insert_node_
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D E:\C_Learning\Data_Structures\linked_list_insert_node\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D E:\C_Learning\Data_Structures\linked_list\linked_list_insert_node\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -92,7 +92,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D E:\C_Learning\Data_Structures\linked_list_insert_node\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SE:\C_Learning\Data_Structures\linked_list_insert_node -BE:\C_Learning\Data_Structures\linked_list_insert_node\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D E:\C_Learning\Data_Structures\linked_list\linked_list_insert_node\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SE:\C_Learning\Data_Structures\linked_list\linked_list_insert_node -BE:\C_Learning\Data_Structures\linked_list\linked_list_insert_node\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -110,7 +110,7 @@ build linked_list_insert_node: phony linked_list_insert_node.exe
 # =============================================================================
 
 #############################################
-# Folder: E:/C_Learning/Data_Structures/linked_list_insert_node/cmake-build-debug
+# Folder: E:/C_Learning/Data_Structures/linked_list/linked_list_insert_node/cmake-build-debug
 
 build all: phony linked_list_insert_node.exe
 

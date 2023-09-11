@@ -1,4 +1,4 @@
-# Install script for directory: E:/C_Learning/Data_Structures/linked_list_insert_node
+# Install script for directory: E:/C_Learning/Data_Structures/linked_list/linked_list_insert_node
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/C_Learning/Data_Structures/linked_list_insert_node/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/C_Learning/Data_Structures/linked_list/linked_list_insert_node/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
