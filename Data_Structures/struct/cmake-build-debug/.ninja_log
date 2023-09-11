@@ -1,0 +1,19 @@
+# ninja log v5
+0	58	7161296822606901	CMakeFiles/struct.dir/main.c.obj	f71dc2e97f5f7ac2
+58	132	7161296823314766	struct.exe	ebaafc0caf8681e9
+1	51	7161297647039491	CMakeFiles/struct.dir/main.c.obj	f71dc2e97f5f7ac2
+51	107	7161297647566672	struct.exe	ebaafc0caf8681e9
+1	46	7161297916622762	CMakeFiles/struct.dir/main.c.obj	f71dc2e97f5f7ac2
+46	101	7161297917139849	struct.exe	ebaafc0caf8681e9
+2	49	7161298318994134	CMakeFiles/struct.dir/main.c.obj	f71dc2e97f5f7ac2
+49	106	7161298319503235	struct.exe	ebaafc0caf8681e9
+1	48	7161298702084633	CMakeFiles/struct.dir/main.c.obj	f71dc2e97f5f7ac2
+48	103	7161298702591389	struct.exe	ebaafc0caf8681e9
+1	54	7161298870300946	CMakeFiles/struct.dir/main.c.obj	f71dc2e97f5f7ac2
+54	107	7161298870807017	struct.exe	ebaafc0caf8681e9
+1	49	7161299949508097	CMakeFiles/struct.dir/main.c.obj	f71dc2e97f5f7ac2
+49	109	7161299950075841	struct.exe	ebaafc0caf8681e9
+1	51	7161300148556480	CMakeFiles/struct.dir/main.c.obj	f71dc2e97f5f7ac2
+51	105	7161300149066582	struct.exe	ebaafc0caf8681e9
+1	45	7161300212524782	CMakeFiles/struct.dir/main.c.obj	f71dc2e97f5f7ac2
+45	100	7161300213038795	struct.exe	ebaafc0caf8681e9
