@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/circular_link_list.iml" filepath="$PROJECT_DIR$/.idea/circular_link_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/linked_list.iml" filepath="$PROJECT_DIR$/.idea/linked_list.iml" />
     </modules>
   </component>
 </project>

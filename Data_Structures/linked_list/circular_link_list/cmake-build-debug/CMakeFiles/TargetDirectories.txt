@@ -1,3 +1,0 @@
-E:/C_Learning/Data_Structures/linked_list/circular_link_list/cmake-build-debug/CMakeFiles/circular_link_list.dir
-E:/C_Learning/Data_Structures/linked_list/circular_link_list/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/C_Learning/Data_Structures/linked_list/circular_link_list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
