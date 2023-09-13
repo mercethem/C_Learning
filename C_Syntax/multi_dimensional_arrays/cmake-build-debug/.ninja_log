@@ -1,0 +1,27 @@
+# ninja log v5
+0	89	7163069472137387	CMakeFiles/multi_dimensional_arrays.dir/main.c.obj	faa5cc2bc2678881
+89	181	7163069473000153	multi_dimensional_arrays.exe	81526a042c55a6d
+1	45	7163069557012778	CMakeFiles/multi_dimensional_arrays.dir/main.c.obj	faa5cc2bc2678881
+45	103	7163069557564160	multi_dimensional_arrays.exe	81526a042c55a6d
+1	42	7163069798639920	CMakeFiles/multi_dimensional_arrays.dir/main.c.obj	faa5cc2bc2678881
+42	96	7163069799165065	multi_dimensional_arrays.exe	81526a042c55a6d
+1	42	7163070257738957	CMakeFiles/multi_dimensional_arrays.dir/main.c.obj	faa5cc2bc2678881
+42	96	7163070258247509	multi_dimensional_arrays.exe	81526a042c55a6d
+1	45	7163070341543158	CMakeFiles/multi_dimensional_arrays.dir/main.c.obj	faa5cc2bc2678881
+45	102	7163070342078939	multi_dimensional_arrays.exe	81526a042c55a6d
+1	42	7163070439980770	CMakeFiles/multi_dimensional_arrays.dir/main.c.obj	faa5cc2bc2678881
+42	95	7163070440482667	multi_dimensional_arrays.exe	81526a042c55a6d
+1	63	7163078394467767	CMakeFiles/multi_dimensional_arrays.dir/main.c.obj	faa5cc2bc2678881
+64	118	7163078394979932	multi_dimensional_arrays.exe	81526a042c55a6d
+1	45	7163082538069998	CMakeFiles/multi_dimensional_arrays.dir/main.c.obj	faa5cc2bc2678881
+45	101	7163082538587722	multi_dimensional_arrays.exe	81526a042c55a6d
+0	41	7163082678339546	CMakeFiles/multi_dimensional_arrays.dir/main.c.obj	faa5cc2bc2678881
+42	99	7163082678864080	multi_dimensional_arrays.exe	81526a042c55a6d
+1	43	7163082818178845	CMakeFiles/multi_dimensional_arrays.dir/main.c.obj	faa5cc2bc2678881
+43	97	7163082818685776	multi_dimensional_arrays.exe	81526a042c55a6d
+1	43	7163084016224739	CMakeFiles/multi_dimensional_arrays.dir/main.c.obj	faa5cc2bc2678881
+43	96	7163084016732996	multi_dimensional_arrays.exe	81526a042c55a6d
+1	39	7163091416708143	CMakeFiles/multi_dimensional_arrays.dir/main.c.obj	faa5cc2bc2678881
+39	111	7163091417400694	multi_dimensional_arrays.exe	81526a042c55a6d
+1	41	7163092246670766	CMakeFiles/multi_dimensional_arrays.dir/main.c.obj	faa5cc2bc2678881
+41	158	7163092247813011	multi_dimensional_arrays.exe	81526a042c55a6d
