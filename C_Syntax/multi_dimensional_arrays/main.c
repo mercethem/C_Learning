@@ -16,6 +16,7 @@ int main()
        first variable of arr ==> a[0]
        first variable of arr of first variable ==> a[0][0]
 
+       int* p = &a[0][0]; equal to int* p = a[0]; "array decay" equal to int* p = (int*)a;
 
       ATTENTION : you can NOT use int* p = a; Because pointer arithmetics can not work like this!!!
       Because from a[0][0] to a[0][1] 80 bytes memory later  and from a[1][0] to a[1][1] 80 bytes memory later again(gcc)
