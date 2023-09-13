@@ -34,6 +34,5 @@ int main()
         printf("%d ", *ptr++);
         _getch();
     }
-
     return 0;
 }
