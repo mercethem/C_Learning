@@ -1,0 +1,11 @@
+# ninja log v5
+0	42	7163128119257106	CMakeFiles/designated_initializer.dir/main.c.obj	506c17d294aea745
+43	134	7163128120138355	designated_initializer.exe	2a79ebf067cff232
+1	47	7163128220577701	CMakeFiles/designated_initializer.dir/main.c.obj	506c17d294aea745
+47	102	7163128221094163	designated_initializer.exe	2a79ebf067cff232
+1	45	7163131708001693	CMakeFiles/designated_initializer.dir/main.c.obj	506c17d294aea745
+45	103	7163131708559631	designated_initializer.exe	2a79ebf067cff232
+1	48	7163133107337990	CMakeFiles/designated_initializer.dir/main.c.obj	506c17d294aea745
+48	108	7163133107896171	designated_initializer.exe	2a79ebf067cff232
+1	48	7163133710374144	CMakeFiles/designated_initializer.dir/main.c.obj	506c17d294aea745
+48	107	7163133710936109	designated_initializer.exe	2a79ebf067cff232
