@@ -1,0 +1,17 @@
+# ninja log v5
+0	42	7163867269602102	CMakeFiles/string_to_int.dir/main.c.obj	1959f288bef8a2b7
+43	106	7163867270206440	string_to_int.exe	68564ce17dd366bb
+1	51	7163867762474626	CMakeFiles/string_to_int.dir/main.c.obj	1959f288bef8a2b7
+51	112	7163867763050871	string_to_int.exe	68564ce17dd366bb
+1	49	7163867949360496	CMakeFiles/string_to_int.dir/main.c.obj	1959f288bef8a2b7
+50	112	7163867949955400	string_to_int.exe	68564ce17dd366bb
+1	48	7163868013424914	CMakeFiles/string_to_int.dir/main.c.obj	1959f288bef8a2b7
+48	106	7163868013978159	string_to_int.exe	68564ce17dd366bb
+1	47	7163868378450702	CMakeFiles/string_to_int.dir/main.c.obj	1959f288bef8a2b7
+47	107	7163868379006767	string_to_int.exe	68564ce17dd366bb
+1	54	7163869594893524	CMakeFiles/string_to_int.dir/main.c.obj	1959f288bef8a2b7
+56	116	7163869595457527	string_to_int.exe	68564ce17dd366bb
+1	50	7163873188753740	CMakeFiles/string_to_int.dir/main.c.obj	1959f288bef8a2b7
+51	113	7163873189344324	string_to_int.exe	68564ce17dd366bb
+2	49	7163873588338508	CMakeFiles/string_to_int.dir/main.c.obj	1959f288bef8a2b7
+49	106	7163873588844321	string_to_int.exe	68564ce17dd366bb
