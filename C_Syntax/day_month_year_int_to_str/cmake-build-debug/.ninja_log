@@ -1,0 +1,18 @@
+# ninja log v5
+0	47	7163888931951069	CMakeFiles/day_month_year_int_to_str.dir/main.c.obj	c88f15a90c7438d4
+2	434	7163888935833374	CMakeFiles/day_month_year_int_to_str.dir/mylibrary.c.obj	38dc0a01480cee8d
+435	495	7163888936383476	day_month_year_int_to_str.exe	b0a967069fda952a
+1	45	7163889907650283	CMakeFiles/day_month_year_int_to_str.dir/main.c.obj	c88f15a90c7438d4
+45	103	7163889908193304	day_month_year_int_to_str.exe	b0a967069fda952a
+2	48	7163890342398663	CMakeFiles/day_month_year_int_to_str.dir/main.c.obj	c88f15a90c7438d4
+48	105	7163890342936336	day_month_year_int_to_str.exe	b0a967069fda952a
+2	48	7163892728414307	CMakeFiles/day_month_year_int_to_str.dir/main.c.obj	c88f15a90c7438d4
+48	107	7163892728961669	day_month_year_int_to_str.exe	b0a967069fda952a
+1	46	7163893376145182	CMakeFiles/day_month_year_int_to_str.dir/main.c.obj	c88f15a90c7438d4
+46	126	7163893376911146	day_month_year_int_to_str.exe	b0a967069fda952a
+2	47	7163893754625389	CMakeFiles/day_month_year_int_to_str.dir/main.c.obj	c88f15a90c7438d4
+47	106	7163893755177188	day_month_year_int_to_str.exe	b0a967069fda952a
+1	51	7163893771208364	CMakeFiles/day_month_year_int_to_str.dir/main.c.obj	c88f15a90c7438d4
+51	109	7163893771762342	day_month_year_int_to_str.exe	b0a967069fda952a
+1	49	7163894227778129	CMakeFiles/day_month_year_int_to_str.dir/main.c.obj	c88f15a90c7438d4
+49	109	7163894228345084	day_month_year_int_to_str.exe	b0a967069fda952a
