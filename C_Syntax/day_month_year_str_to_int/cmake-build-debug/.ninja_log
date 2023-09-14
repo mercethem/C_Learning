@@ -1,0 +1,8 @@
+# ninja log v5
+0	58	7163878129730776	CMakeFiles/day_month_year_str_to_int.dir/main.c.obj	50d401305bf166ee
+3	730	7163878136438007	CMakeFiles/day_month_year_str_to_int.dir/mylibrary.c.obj	80ec26a4163738b5
+731	800	7163878137090218	day_month_year_str_to_int.exe	31715977ae0f1c47
+1	54	7163878457896234	CMakeFiles/day_month_year_str_to_int.dir/main.c.obj	50d401305bf166ee
+54	113	7163878458454341	day_month_year_str_to_int.exe	31715977ae0f1c47
+2	54	7163878608731717	CMakeFiles/day_month_year_str_to_int.dir/main.c.obj	50d401305bf166ee
+54	133	7163878609496008	day_month_year_str_to_int.exe	31715977ae0f1c47
