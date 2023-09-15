@@ -1,10 +1,14 @@
 /**
     std out
     1) printf : output to standard output
-    2) sprintf : output to memory
+    2) sprintf : output to memory(array)
     3) fprintf : output to file
 
+    std in
 
+    1) scanf : input from standard
+    2) sscanf : input from memort(array)
+    3) fscanf : input from file
 */
 
 
