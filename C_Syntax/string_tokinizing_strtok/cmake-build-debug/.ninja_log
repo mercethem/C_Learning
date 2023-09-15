@@ -1,0 +1,10 @@
+# ninja log v5
+0	43	7164803908774371	CMakeFiles/string_tokinizing_strtok.dir/main.c.obj	dbbb5399d64511e5
+44	105	7164803909353843	string_tokinizing_strtok.exe	a8cbe5709a622ce7
+0	49	7164805664220687	CMakeFiles/string_tokinizing_strtok.dir/main.c.obj	dbbb5399d64511e5
+3	832	7164805672054059	CMakeFiles/string_tokinizing_strtok.dir/mylibrary.c.obj	faee8772a751f3d5
+833	888	7164805672586835	string_tokinizing_strtok.exe	1b5d28fe372c41d4
+1	43	7164806383127695	CMakeFiles/string_tokinizing_strtok.dir/main.c.obj	dbbb5399d64511e5
+44	99	7164806383655370	string_tokinizing_strtok.exe	1b5d28fe372c41d4
+1	47	7164818283477176	CMakeFiles/string_tokinizing_strtok.dir/main.c.obj	dbbb5399d64511e5
+47	109	7164818284027052	string_tokinizing_strtok.exe	1b5d28fe372c41d4

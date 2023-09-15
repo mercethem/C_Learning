@@ -1,0 +1,3 @@
+E:/C_Learning/C_Syntax/string_tokinizing_strtok/cmake-build-debug/CMakeFiles/string_tokinizing_strtok.dir
+E:/C_Learning/C_Syntax/string_tokinizing_strtok/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/C_Learning/C_Syntax/string_tokinizing_strtok/cmake-build-debug/CMakeFiles/rebuild_cache.dir
