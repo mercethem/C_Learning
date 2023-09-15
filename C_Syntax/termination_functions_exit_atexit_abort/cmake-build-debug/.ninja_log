@@ -1,0 +1,5 @@
+# ninja log v5
+0	96	7165061619623043	CMakeFiles/termination_functions_exit_atexit_abort.dir/main.c.obj	62885b1074c77672
+96	194	7165061620566464	termination_functions_exit_atexit_abort.exe	692434e3e0fe9d64
+1	48	7165061826209477	CMakeFiles/termination_functions_exit_atexit_abort.dir/main.c.obj	62885b1074c77672
+48	104	7165061826727424	termination_functions_exit_atexit_abort.exe	692434e3e0fe9d64
