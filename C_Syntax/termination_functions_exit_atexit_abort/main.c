@@ -9,6 +9,7 @@
   abort() (NOT guaranteed buffer flushing)
 
    atexit() Uses stack method. It runs whatever functions it has marked, from the end to the beginning.
+            min 32 functions
 
 
  */
@@ -43,7 +44,6 @@ int main()
     atexit(f3);
 
     exit(EXIT_FAILURE);
-
 
     return 0;
 }
