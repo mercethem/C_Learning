@@ -1,0 +1,11 @@
+# ninja log v5
+0	49	7164879964349176	CMakeFiles/formatted_input_output2.dir/main.c.obj	f2fdcde2d9ab8366
+50	118	7164879964992595	formatted_input_output2.exe	a3a698bf4833a2e6
+1	49	7164880076709084	CMakeFiles/formatted_input_output2.dir/main.c.obj	f2fdcde2d9ab8366
+49	115	7164880077330806	formatted_input_output2.exe	a3a698bf4833a2e6
+1	48	7164882037047800	CMakeFiles/formatted_input_output2.dir/main.c.obj	f2fdcde2d9ab8366
+48	108	7164882037612439	formatted_input_output2.exe	a3a698bf4833a2e6
+1	53	7164882185570543	CMakeFiles/formatted_input_output2.dir/main.c.obj	f2fdcde2d9ab8366
+53	113	7164882186133214	formatted_input_output2.exe	a3a698bf4833a2e6
+1	44	7164882480607500	CMakeFiles/formatted_input_output2.dir/main.c.obj	f2fdcde2d9ab8366
+46	107	7164882481213340	formatted_input_output2.exe	a3a698bf4833a2e6
