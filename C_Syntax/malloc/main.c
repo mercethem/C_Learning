@@ -20,7 +20,7 @@ int main()
     scanf("%zu", &size);
     int* p_arr = (int*)malloc(size * sizeof(int));
     if(p_arr == NULL){
-        printf("Memory Failure");
+        fprintf(stderr,"Memory Failure\n");
         exit(EXIT_FAILURE);
     }
 
@@ -38,7 +38,7 @@ int main()
     scanf("%zu", &size);
 
     if(p_arr = (int*)malloc(size * sizeof(int))) == NULL){
-        printf("Memory Failure");
+        fprintf(stderr,"Memory Failure\n");
         exit(EXIT_FAILURE);
     }
 }
