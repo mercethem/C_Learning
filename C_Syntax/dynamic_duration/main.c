@@ -53,9 +53,7 @@
 
  6) Dynamic allocated memory block had not be freed (Memory leak)
     int* p = (int*)malloc(size * sizeof(int));
-    //free(p);
-
-    exit(1);
+    //free(p); //NOT USED
 
  */
 
