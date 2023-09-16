@@ -19,5 +19,43 @@
 
  ATTENTION : malloc never do increasing and decreasing!!! If you want to that call the realloc!!!
 
+ DO NOT DO THESE!!!
+ 1) Never use free for not malloc memories blocs (Undefined behavior)
+    char str[100];
+    char* p = str;
+    free(p);//(UB)
+
+ 2) Do not decrease memory blocks with free() (Undefined behavior)
+    int* p = (int*)malloc(size * sizeof(int));
+    free(p + n / 2); //(UB)
+
+ 3) Pointer of memory invalid after free (invalid pointer)
+    int* p = (int*)malloc(size * sizeof(int));
+    free(p);
+    printf("%p", p); //(UB) ===> p is invalid pointer so you can not use this after free!!!
+
+    ATTENTION: p is not NULL pointer after free(p) because that is call by value not call by reference
+                free(p) not equal to free(&p) if that is the same calls p can be a NULL pointer! BUT NOT!!!
+
+ 4) Do not use free if you want to dereferencing that pointer
+
+    int* p = (int*)malloc(size * sizeof(int));
+    int* ptr = p;
+    free(p);
+    ptr[]; //(UB)
+
+ 5) freed memory and again freed is undefined behaviour
+
+    int* p = (int*)malloc(size * sizeof(int));
+    int* ptr = p;
+    free(p);
+    free(ptr);//(UB)
+
+ 6) Dynamic allocated memory block had not be freed (Memory leak)
+    int* p = (int*)malloc(size * sizeof(int));
+    //free(p);
+
+    exit(1);
+
  */
 
