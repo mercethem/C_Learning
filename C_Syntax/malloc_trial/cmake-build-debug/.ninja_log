@@ -1,0 +1,8 @@
+# ninja log v5
+5	1204	7165799521102058	CMakeFiles/malloc_trial.dir/mylibrary.c.obj	83a0e8bcf0785f2d
+3	74	7165799671672324	CMakeFiles/malloc_trial.dir/main.c.obj	f522028e40d8d06e
+74	185	7165799672718810	malloc_trial.exe	e937405fc1e44383
+3	77	7165800123917603	CMakeFiles/malloc_trial.dir/main.c.obj	f522028e40d8d06e
+77	179	7165800124880308	malloc_trial.exe	e937405fc1e44383
+2	82	7165801834907608	CMakeFiles/malloc_trial.dir/main.c.obj	f522028e40d8d06e
+82	192	7165801835964710	malloc_trial.exe	e937405fc1e44383
