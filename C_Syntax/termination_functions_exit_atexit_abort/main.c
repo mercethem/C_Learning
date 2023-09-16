@@ -20,30 +20,33 @@
 
 #define     SIZE    100
 
-void f1(void){
-    printf("f1 started\n");
-
-    printf("f1 stopped\n");
-}
-void f2(void){
-    printf("f2 started\n");
-
-    printf("f2 stopped\n");
-}
-void f3(void){
+void f3(void)
+{
     printf("f3 started\n");
-
     printf("f3 stopped\n");
 }
 
+void f2(void)
+{
+    printf("f2 started\n");
+    f3();
+    printf("f2 stopped\n");
+}
+
+void f1(void)
+{
+    printf("f1 started\n");
+    f2();
+    printf("f1 stopped\n");
+}
 
 int main()
 {
-    atexit(f1); //equal to atexit(&f1);
-    atexit(f2);
-    atexit(f3);
+    printf("main started\n");
+    f1();
+    printf("main stopped\n");
 
-    exit(EXIT_FAILURE);
-
-    return 0;
 }
+
+
+
