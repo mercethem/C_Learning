@@ -17,5 +17,7 @@
  Dynamic memory management allocate heap(c++ ===> free store) area in memory.
  If you full the heap so warning is memory leak.
 
+ ATTENTION : malloc never do increasing and decreasing!!! If you want to that call the realloc!!!
+
  */
 
