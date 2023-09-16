@@ -23,6 +23,8 @@
 void f3(void)
 {
     printf("f3 started\n");
+//    exit(); //stopped prints work
+    abort(); //stopped prints not work
     printf("f3 stopped\n");
 }
 
@@ -46,6 +48,7 @@ int main()
     f1();
     printf("main stopped\n");
 
+    exit(EXIT_SUCCESS);
 }
 
 
