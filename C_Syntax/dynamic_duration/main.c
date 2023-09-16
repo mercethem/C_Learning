@@ -55,5 +55,13 @@
     int* p = (int*)malloc(size * sizeof(int));
     //free(p); //NOT USED
 
+ ATTENTION : free(NULL) ===> is NOT! UB...
+
+ SECURITY ATTENTION!!! : If you use free for important memory anyone can see that memory do not forget
+                        CORRECT WORK ===> free and clear for security (memset + free)!!!
+                        int* p = (int*)malloc(size * sizeof(int));
+                        memset(p, 0, n * sizeof(int));
+                        free(p);
+
  */
 
