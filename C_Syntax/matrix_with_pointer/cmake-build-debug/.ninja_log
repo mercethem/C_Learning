@@ -1,0 +1,5 @@
+# ninja log v5
+1	72	7167734383900006	build.ninja	61ab6ebebe5948d5
+49	109	7167536684250336	matrix_with_pointer.exe	5efb619c20b457db
+1	49	7167536683682749	CMakeFiles/matrix_with_pointer.dir/main.c.obj	71b4ecc462a9c944
+0	432	7167536457835597	CMakeFiles/matrix_with_pointer.dir/mylibrary.c.obj	28e0be84738a7d2a
