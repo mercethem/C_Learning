@@ -6,6 +6,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #include "mylibrary.h"
 
 
@@ -24,8 +25,11 @@ int main()
     set_random_array(p_arr, size); //DO NOT USE BEFORE DID NOT ERASE MEMORY
     print_array(p_arr, size);
 
+    memset(p_arr, 0, size * sizeof(int)); //for security
+    print_array(p_arr, size);
     free(p_arr); //Work like garbage collector (for not be memory leak)
                         //dangling pointer so after free(p_arr) p_arr invalid pointer now
+    p_arr = NULL;   //for to prevent referencing
 
     return 0;
 }

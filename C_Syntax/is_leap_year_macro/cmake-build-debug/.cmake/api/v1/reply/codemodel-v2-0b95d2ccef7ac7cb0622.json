@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "E:/C/C_Learning/is_leap_year_macro/cmake-build-debug",
-		"source" : "E:/C/C_Learning/is_leap_year_macro"
+		"build" : "E:/C_Learning/C_Syntax/is_leap_year_macro/cmake-build-debug",
+		"source" : "E:/C_Learning/C_Syntax/is_leap_year_macro"
 	},
 	"version" : 
 	{

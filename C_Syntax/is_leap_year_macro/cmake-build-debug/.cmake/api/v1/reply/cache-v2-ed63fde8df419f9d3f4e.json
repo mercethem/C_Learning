@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "e:/C/C_Learning/is_leap_year_macro/cmake-build-debug"
+			"value" : "e:/C_Learning/C_Syntax/is_leap_year_macro/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "E:/C/C_Learning/is_leap_year_macro"
+			"value" : "E:/C_Learning/C_Syntax/is_leap_year_macro"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -519,7 +519,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/ninja/win/ninja.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2022.2.3/bin/ninja/win/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -1095,7 +1095,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/C/C_Learning/is_leap_year_macro/cmake-build-debug"
+			"value" : "E:/C_Learning/C_Syntax/is_leap_year_macro/cmake-build-debug"
 		},
 		{
 			"name" : "is_leap_year_macro_IS_TOP_LEVEL",
@@ -1119,7 +1119,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/C/C_Learning/is_leap_year_macro"
+			"value" : "E:/C_Learning/C_Syntax/is_leap_year_macro"
 		}
 	],
 	"kind" : "cache",
