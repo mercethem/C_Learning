@@ -44,5 +44,12 @@ int main()
 }
      */
 
+    /*
+     int n;
+     int** pd = (int**)malloc(n * sizeof(int*));
+     type is int* and so use generally for pointer arrays
+     */
+
+
     return 0;
 }
