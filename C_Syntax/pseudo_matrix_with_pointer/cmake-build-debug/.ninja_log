@@ -1,9 +1,5 @@
 # ninja log v5
-1	76	7168310357834523	CMakeFiles/pseudo_matrix_with_pointer.dir/main.c.obj	6af4b187159396bf
-77	162	7168310358653581	pseudo_matrix_with_pointer.exe	556c28f7a8911c06
-1	55	7168310545915515	CMakeFiles/pseudo_matrix_with_pointer.dir/main.c.obj	6af4b187159396bf
-55	119	7168310546522964	pseudo_matrix_with_pointer.exe	556c28f7a8911c06
-1	56	7168310780671223	CMakeFiles/pseudo_matrix_with_pointer.dir/main.c.obj	6af4b187159396bf
-56	118	7168310781254836	pseudo_matrix_with_pointer.exe	556c28f7a8911c06
 2	55	7168311254712559	CMakeFiles/pseudo_matrix_with_pointer.dir/main.c.obj	6af4b187159396bf
 55	117	7168311255288410	pseudo_matrix_with_pointer.exe	556c28f7a8911c06
+3	187	7169081544463762	CMakeFiles/pseudo_matrix_with_pointer.dir/main.c.obj	9adb649880833ffe
+188	312	7169081545679846	pseudo_matrix_with_pointer.exe	556c28f7a8911c06
