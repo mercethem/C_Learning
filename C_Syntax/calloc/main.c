@@ -16,21 +16,21 @@
 int main()
 {
     size_t size;
-    int* p_arr;
+    int* pd;
 
     printf("How much variable in your array:\n");
     scanf("%zu", &size);
 
-    if((p_arr = (int*)calloc(size, sizeof(int))) == NULL){
-    //if(!(p_arr = (int*)calloc(size, sizeof(int))))
-        fprintf(stderr,"Memory Failure\n");
+
+    //pd = (int*)malloc(size * sizeof(int));
+    pd = (int*)calloc(size, sizeof(int)); //===> malloc + memset (calloc is very efficiency then malloc + memset)
+    if (!pd) {
+        fprintf(stderr, "Memory Failure\n");
         exit(EXIT_FAILURE);
     }
 
-    memset(p_arr, 0, size * sizeof(int));
-    print_array(p_arr, size);
-
-    free(p_arr);
+    print_array(pd, size);
+    free(pd);
 
     return 0;
 }
