@@ -1,5 +1,11 @@
 /**
 
+ EFFICIENCY ATTENTION: REALLOCATION TAKES TIME!!!
+
+ ATTENTION: REALLOCATION INVALIDATES POINTERS!!!
+
+ DO NOT USE REALLOC FOR DYNAMIC ADDRESS!!!
+
 realloc does decrease or increase about allocated memory
 realloc(void *vp, size_t newsize) example:  500 + 1500 ===> realloc(pointer, 2000)
                                             500 - 400  ===> realloc(pointer, 100)
@@ -8,9 +14,7 @@ realloc(void *vp, size_t newsize) example:  500 + 1500 ===> realloc(pointer, 200
          success ===> new memory address (old address variables copy new address than old address was free)(old address dangling)
          failure ===> NULL Pointer
 
- ATTENTION: DO NOT USE REALLOC FOR DYNAMIC ADDRESS!!!
-
- EFFICIENCY ATTENTION: REALLOC TAKES TIME!!!
+ Standards says : If return value of realloc is NULL Pointer then realloc do such as malloc
 
  */
 
