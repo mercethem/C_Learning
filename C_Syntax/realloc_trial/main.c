@@ -40,6 +40,7 @@ int main()
         system("cls");
     }
 
+
 //    if (!pd) {
 //        printf("There is no integer\n");
 //    }
