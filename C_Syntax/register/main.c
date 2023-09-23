@@ -11,7 +11,7 @@ int main()
     register int x = 10;
     int y = 20;
 
-    printf("int x : %d\nint y : %d\n", x, y);
+    printf("register int x : %d\n int y : %d\n", x, y);
 
     return 0;
 }
