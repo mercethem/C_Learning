@@ -1,0 +1,6 @@
+# ninja log v5
+0	54	7172626893939315	CMakeFiles/random_create_password.dir/main.c.obj	49b5bee0292389ad
+2	559	7172626898999093	CMakeFiles/random_create_password.dir/mylibrary.c.obj	aef7128aad5c0972
+560	625	7172626899628827	random_create_password.exe	d0a7a4e9604a6464
+1	48	7172630095068714	CMakeFiles/random_create_password.dir/main.c.obj	49b5bee0292389ad
+48	103	7172630095588288	random_create_password.exe	d0a7a4e9604a6464
