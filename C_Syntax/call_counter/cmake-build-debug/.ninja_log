@@ -1,0 +1,7 @@
+# ninja log v5
+0	44	7172920073537212	CMakeFiles/call_counter.dir/main.c.obj	bc64248e674118f4
+46	106	7172920074128789	call_counter.exe	b785b82adeb4fbc1
+1	73	7172920115216246	CMakeFiles/call_counter.dir/main.c.obj	bc64248e674118f4
+73	137	7172920115811481	call_counter.exe	b785b82adeb4fbc1
+1	50	7172921439556434	CMakeFiles/call_counter.dir/main.c.obj	bc64248e674118f4
+50	107	7172921440087739	call_counter.exe	b785b82adeb4fbc1

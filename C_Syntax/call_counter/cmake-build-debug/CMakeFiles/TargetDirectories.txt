@@ -1,0 +1,3 @@
+E:/C_Learning/C_Syntax/call_counter/cmake-build-debug/CMakeFiles/call_counter.dir
+E:/C_Learning/C_Syntax/call_counter/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/C_Learning/C_Syntax/call_counter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

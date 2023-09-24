@@ -3,7 +3,7 @@
 #include "mylibrary.h"
 
 
-#define     URAND_MAX   10
+#define     URAND_MAX   100
 
 
 int urand(void)

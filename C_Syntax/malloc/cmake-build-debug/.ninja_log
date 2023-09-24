@@ -1,16 +1,4 @@
 # ninja log v5
-2	59	7165750724903251	CMakeFiles/malloc.dir/main.c.obj	47d8ac51ffd9079e
-59	134	7165750725603870	malloc.exe	68aff59ba892910a
-1	63	7165751388521667	CMakeFiles/malloc.dir/main.c.obj	47d8ac51ffd9079e
-5	1064	7165751398511440	CMakeFiles/malloc.dir/mylibrary.c.obj	640e7ef1816e2c3
-1065	1148	7165751399325542	malloc.exe	f20bc0a7f006fbd
-2	57	7165752038282343	CMakeFiles/malloc.dir/main.c.obj	47d8ac51ffd9079e
-57	128	7165752038965340	malloc.exe	f20bc0a7f006fbd
-2	56	7165752323607506	CMakeFiles/malloc.dir/main.c.obj	47d8ac51ffd9079e
-56	132	7165752324327596	malloc.exe	f20bc0a7f006fbd
-2	62	7165757088720513	CMakeFiles/malloc.dir/main.c.obj	47d8ac51ffd9079e
-63	138	7165757089431843	malloc.exe	f20bc0a7f006fbd
-2	53	7165757394875762	CMakeFiles/malloc.dir/main.c.obj	47d8ac51ffd9079e
-55	134	7165757395640836	malloc.exe	f20bc0a7f006fbd
 1	57	7165757463778856	CMakeFiles/malloc.dir/main.c.obj	47d8ac51ffd9079e
 57	133	7165757464503032	malloc.exe	f20bc0a7f006fbd
+5	1064	7165751398511440	CMakeFiles/malloc.dir/mylibrary.c.obj	640e7ef1816e2c3
