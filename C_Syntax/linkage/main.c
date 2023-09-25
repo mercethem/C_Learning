@@ -22,18 +22,27 @@
  nolinkage        : in local scope so there is no linkage.
 
  */
+
+
 #include <stdio.h>
 #include "mylibrary.h"
 
+
 //extern int g; // external linkage
 
-int		ndigit(int){ // external linkage
+
+int ndigit(int) // external linkage
+{
     return 0;
 }
+
 int main()
 {
     printf("%d\n", g);
+
     g = 20;
+
     printf("%d\n", g);
+
     return 0;
 }
