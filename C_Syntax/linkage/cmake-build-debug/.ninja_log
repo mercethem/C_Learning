@@ -1,0 +1,25 @@
+# ninja log v5
+0	69	7173770770245942	CMakeFiles/linkage.dir/main.c.obj	12c7cb8a10c8901a
+3	884	7173770778384932	CMakeFiles/linkage.dir/mylibrary.c.obj	941bfb2b81eafe13
+2	48	7173771237202383	CMakeFiles/linkage.dir/main.c.obj	12c7cb8a10c8901a
+4	568	7173771242394961	CMakeFiles/linkage.dir/mylibrary.c.obj	941bfb2b81eafe13
+2	44	7173771552817496	CMakeFiles/linkage.dir/main.c.obj	12c7cb8a10c8901a
+4	527	7173771557642295	CMakeFiles/linkage.dir/mylibrary.c.obj	941bfb2b81eafe13
+528	599	7173771558309116	linkage.exe	27d5b3cd7e663a53
+2	45	7173771618075013	CMakeFiles/linkage.dir/main.c.obj	12c7cb8a10c8901a
+1	43	7173771659433788	CMakeFiles/linkage.dir/main.c.obj	12c7cb8a10c8901a
+43	97	7173771659953842	linkage.exe	27d5b3cd7e663a53
+2	47	7173776277694499	CMakeFiles/linkage.dir/main.c.obj	12c7cb8a10c8901a
+5	581	7173776283024901	CMakeFiles/linkage.dir/mylibrary.c.obj	941bfb2b81eafe13
+581	638	7173776283551336	linkage.exe	27d5b3cd7e663a53
+1	45	7173776431303479	CMakeFiles/linkage.dir/main.c.obj	12c7cb8a10c8901a
+4	530	7173776436150674	CMakeFiles/linkage.dir/mylibrary.c.obj	941bfb2b81eafe13
+530	587	7173776436690949	linkage.exe	27d5b3cd7e663a53
+2	44	7173776523537815	CMakeFiles/linkage.dir/main.c.obj	12c7cb8a10c8901a
+44	113	7173776524187759	linkage.exe	27d5b3cd7e663a53
+2	44	7173776756855113	CMakeFiles/linkage.dir/main.c.obj	12c7cb8a10c8901a
+44	99	7173776757369563	linkage.exe	27d5b3cd7e663a53
+2	42	7173776808326679	CMakeFiles/linkage.dir/main.c.obj	12c7cb8a10c8901a
+42	100	7173776808880005	linkage.exe	27d5b3cd7e663a53
+2	44	7173776904126680	CMakeFiles/linkage.dir/main.c.obj	12c7cb8a10c8901a
+44	111	7173776904755259	linkage.exe	27d5b3cd7e663a53
