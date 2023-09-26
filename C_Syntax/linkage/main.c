@@ -30,7 +30,6 @@
 
 //extern int g; // external linkage
 
-
 int ndigit(int) // external linkage
 {
     return 0;
