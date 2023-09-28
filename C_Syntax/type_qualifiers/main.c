@@ -153,8 +153,37 @@
                     }
 
                 }
+------------------------------------------------------------------------------------------------------------------------
 
- volatile(C/C++) :
- restrict(C only) :
+
+ volatile(C/C++) :  Volatile qualified variables!
+                    interrupt handler can change to our variables (interrupt handling)
+                    or external sources (peripheral hardware) can change our variables
+                    that time uses volatile keyword.
+                    Generally uses global scope!!!
+
+                    volatile int x = 10; ===> that mean, with compiler that I don't want to optimize where x is used !!!
+                    volatile int* p = (int*)0xba12; volatile is *p!
+                    int* volatile p = (int*)0xba12; volatile is p!
+
+                    int main()
+                    {
+
+
+                    }
+ -----------------------------------------------------------------------------------------------------------------------
+ restrict(C only)(C99) : There is no C++
+                        Restrict keyword use efficiency in CPU (overlapped, vectorization)
+
+                        restrict keyword is: There is only one pointer for that element,
+                                             not another pointer for the element
+                        You can not use before *!!! for example ===>    int* restrict p = &x;
+                                                                        char* restrict p = &x ;
+
+                                            func(int* restrict p, int* restrict q); ===> p and q is not a same element,
+                                                                                        they are completely different!
+                        ATTENTION : void func(int* restrict p, int* restrict q);
+                                    func(&x, &y);//UNDEFINED BEHAVIOUR
+
 
  */
