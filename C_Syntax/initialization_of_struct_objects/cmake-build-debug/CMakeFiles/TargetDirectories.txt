@@ -1,0 +1,3 @@
+E:/C_Learning/C_Syntax/initialization_of_struct_objects/cmake-build-debug/CMakeFiles/initialization_of_struct_objects.dir
+E:/C_Learning/C_Syntax/initialization_of_struct_objects/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/C_Learning/C_Syntax/initialization_of_struct_objects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
