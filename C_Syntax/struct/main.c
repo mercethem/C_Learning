@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 struct DataRoot
 {
     int a;
@@ -17,10 +18,8 @@ struct Data //structure tag
     int* p;
     int a[20];
     char str[40];
-
-    int (* pFunction)(int);
-
     int b[2][5];
+    int (* pFunction)(int);
     struct DataRoot myroot; //nested struct!
 
     //ATTENTION: These are contiguous in memory that style!
@@ -28,7 +27,6 @@ struct Data //structure tag
     //Member selection operators are ===>  . and  -> (left associative) (dot operator and arrow operator)
     // dot operator use for struct element himself but arrow operator for pointer of struct element
     // mydata.x; ptr -> x;
-
 };
 
 static struct Data mydata;
