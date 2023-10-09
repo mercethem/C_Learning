@@ -1,0 +1,9 @@
+# ninja log v5
+0	50	7185741028808523	CMakeFiles/localtime.dir/main.c.obj	552de612867e5ec1
+51	112	7185741029361330	localtime.exe	43a88b85df196cc7
+2	56	7185744877646584	CMakeFiles/localtime.dir/main.c.obj	552de612867e5ec1
+57	113	7185744878170185	localtime.exe	43a88b85df196cc7
+1	45	7185744928014052	CMakeFiles/localtime.dir/main.c.obj	552de612867e5ec1
+45	100	7185744928523378	localtime.exe	43a88b85df196cc7
+1	47	7185747729367389	CMakeFiles/localtime.dir/main.c.obj	552de612867e5ec1
+47	114	7185747730017835	localtime.exe	43a88b85df196cc7
