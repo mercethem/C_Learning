@@ -22,7 +22,7 @@ int main()
 
     time_t timer;
     time(&timer);
-    struct tm *p = localtime(&timer);
+    struct tm* p = localtime(&timer);
 
     size_t n = strftime(str, SIZE, "Date: %A %B %Y\n", p);
     printf("%s", str);
