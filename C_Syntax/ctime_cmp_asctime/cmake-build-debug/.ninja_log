@@ -1,0 +1,11 @@
+# ninja log v5
+0	48	7186132860877124	CMakeFiles/ctime_cmp_asctime.dir/main.c.obj	cc609a6661ae2e34
+49	104	7186132861400314	ctime_cmp_asctime.exe	9f8e650696d4e609
+1	44	7186133199121781	CMakeFiles/ctime_cmp_asctime.dir/main.c.obj	cc609a6661ae2e34
+45	100	7186133199638785	ctime_cmp_asctime.exe	9f8e650696d4e609
+1	46	7186133237764796	CMakeFiles/ctime_cmp_asctime.dir/main.c.obj	cc609a6661ae2e34
+46	118	7186133238442194	ctime_cmp_asctime.exe	9f8e650696d4e609
+1	50	7186133811373556	CMakeFiles/ctime_cmp_asctime.dir/main.c.obj	cc609a6661ae2e34
+50	106	7186133811886999	ctime_cmp_asctime.exe	9f8e650696d4e609
+1	60	7186133862856164	CMakeFiles/ctime_cmp_asctime.dir/main.c.obj	cc609a6661ae2e34
+60	115	7186133863363027	ctime_cmp_asctime.exe	9f8e650696d4e609
