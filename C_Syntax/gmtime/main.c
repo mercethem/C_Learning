@@ -1,4 +1,5 @@
 /**
+ (greenwich time)
  static storage duration
  */
 
