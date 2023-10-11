@@ -1,0 +1,4 @@
+# ninja log v5
+0	61	7186970457615490	CMakeFiles/sakamuto_algorithm.dir/main.c.obj	98f04d3ef34a0da
+3	601	7186970463001151	CMakeFiles/sakamuto_algorithm.dir/mylibrary.c.obj	9078bd09bdb82166
+602	675	7186970463718502	sakamuto_algorithm.exe	5eaa5b5486e5ac6e
