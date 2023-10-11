@@ -27,7 +27,7 @@ int		get_max(const int* p, size_t size);
 int		get_min(const int* p, size_t size);
 void	get_min_max(const int* p, size_t size,int *pmax,int *pmin);
 void	bsort(int* p, size_t size);
-int day_of_week(int d, int m, int y);
+int     day_of_week(int d, int m, int y);
 void	copy_array(int* pdest, const int* psource, int n);
 void	gswap(void* vp1, void* vp2, size_t size);
 void	gbsort(void* vpa, size_t size, size_t sz, int (*fp)(const void*, const void*));
