@@ -18,8 +18,9 @@ Date* set_date_today(Date* p);
 Date* set_date_str(Date* p, const char* pstr);
 Date* set_date_random(Date *p);
 Date* set_month(Date* p, int mon);
-Date* set_month_day(Date* p, int mday);
 Date* set_year(Date* p, int year);
+Date* set_month_day(Date* p, int mday);
+
 
 //get functions
 int get_year(const Date* p);
