@@ -1,0 +1,13 @@
+# ninja log v5
+5	168	7192175038250677	CMakeFiles/my_date_library.dir/main.c.obj	51efef20fe0cb53a
+0	169	7192175038250677	CMakeFiles/my_date_library.dir/date.c.obj	b382695c97adc9ae
+169	268	7192175039222737	my_date_library.exe	e1f43e260e65f613
+1	57	7192180724651805	CMakeFiles/my_date_library.dir/date.c.obj	b382695c97adc9ae
+57	115	7192180725193872	my_date_library.exe	e1f43e260e65f613
+2	67	7192191922147235	CMakeFiles/my_date_library.dir/date.c.obj	b382695c97adc9ae
+67	142	7192191922847261	my_date_library.exe	e1f43e260e65f613
+3	69	7192194047277694	CMakeFiles/my_date_library.dir/date.c.obj	b382695c97adc9ae
+69	142	7192194047980361	my_date_library.exe	e1f43e260e65f613
+5	47	7192196963196916	CMakeFiles/my_date_library.dir/main.c.obj	51efef20fe0cb53a
+2	61	7192196963336389	CMakeFiles/my_date_library.dir/date.c.obj	b382695c97adc9ae
+61	120	7192196963899209	my_date_library.exe	e1f43e260e65f613
