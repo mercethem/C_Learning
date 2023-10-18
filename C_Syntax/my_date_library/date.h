@@ -32,7 +32,7 @@ int get_year_day(const Date* p);
 
 //input-output functions
 void print_date(const Date* p);
-void scan_date(Date* p);
+Date* scan_date(Date* p);
 
 //utility functions
 int cmp_date(const Date*, const Date*);

@@ -61,6 +61,12 @@ build CMakeFiles/my_date_library.dir/date.c.obj: C_COMPILER__my_date_library_uns
   OBJECT_DIR = CMakeFiles\my_date_library.dir
   OBJECT_FILE_DIR = CMakeFiles\my_date_library.dir
 
+build CMakeFiles/my_date_library.dir/mylibrary.c.obj: C_COMPILER__my_date_library_unscanned_Debug E$:/C_Learning/C_Syntax/my_date_library/mylibrary.c || cmake_object_order_depends_target_my_date_library
+  DEP_FILE = CMakeFiles\my_date_library.dir\mylibrary.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\my_date_library.dir
+  OBJECT_FILE_DIR = CMakeFiles\my_date_library.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target my_date_library
@@ -69,7 +75,7 @@ build CMakeFiles/my_date_library.dir/date.c.obj: C_COMPILER__my_date_library_uns
 #############################################
 # Link the executable my_date_library.exe
 
-build my_date_library.exe: C_EXECUTABLE_LINKER__my_date_library_Debug CMakeFiles/my_date_library.dir/main.c.obj CMakeFiles/my_date_library.dir/date.c.obj
+build my_date_library.exe: C_EXECUTABLE_LINKER__my_date_library_Debug CMakeFiles/my_date_library.dir/main.c.obj CMakeFiles/my_date_library.dir/date.c.obj CMakeFiles/my_date_library.dir/mylibrary.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\my_date_library.dir
