@@ -1,4 +1,4 @@
-struct Data{ //Self referential structure (Generally uses in data structure)
+struct Data{ //Self-referential structure (Generally uses in data structure)
     int x;
     struct Data* p;
     /**
