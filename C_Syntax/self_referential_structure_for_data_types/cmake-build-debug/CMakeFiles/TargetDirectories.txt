@@ -1,0 +1,3 @@
+E:/C_Learning/C_Syntax/self_referential_structure_for_data_types/cmake-build-debug/CMakeFiles/self_referential_structure_for_data_types.dir
+E:/C_Learning/C_Syntax/self_referential_structure_for_data_types/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/C_Learning/C_Syntax/self_referential_structure_for_data_types/cmake-build-debug/CMakeFiles/rebuild_cache.dir
