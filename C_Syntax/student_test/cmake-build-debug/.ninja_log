@@ -1,0 +1,18 @@
+# ninja log v5
+8	130	7195708911485749	CMakeFiles/student_test.dir/student.c.obj	a23ca0d744f7ddca
+1	132	7195708911515168	CMakeFiles/student_test.dir/main.c.obj	f9c2013fc296fb9f
+3	152	7195708911715484	CMakeFiles/student_test.dir/date.c.obj	53c4c28afb052085
+6	1038	7195708920563305	CMakeFiles/student_test.dir/mylibrary.c.obj	240b6d4d199b377e
+1039	1114	7195708921300195	student_test.exe	57f81dab3cff3ff0
+3	92	7195709842686344	CMakeFiles/student_test.dir/main.c.obj	f9c2013fc296fb9f
+92	188	7195709843586780	student_test.exe	57f81dab3cff3ff0
+2	72	7195711560451626	CMakeFiles/student_test.dir/main.c.obj	f9c2013fc296fb9f
+72	147	7195711561164451	student_test.exe	57f81dab3cff3ff0
+1	58	7195717322616546	CMakeFiles/student_test.dir/main.c.obj	f9c2013fc296fb9f
+61	124	7195717323228399	student_test.exe	57f81dab3cff3ff0
+1	68	7195718679755129	CMakeFiles/student_test.dir/main.c.obj	f9c2013fc296fb9f
+68	131	7195718680351247	student_test.exe	57f81dab3cff3ff0
+3	64	7195720027498098	CMakeFiles/student_test.dir/main.c.obj	f9c2013fc296fb9f
+64	145	7195720028277220	student_test.exe	57f81dab3cff3ff0
+2	60	7195720484656357	CMakeFiles/student_test.dir/main.c.obj	f9c2013fc296fb9f
+61	125	7195720485257875	student_test.exe	57f81dab3cff3ff0
