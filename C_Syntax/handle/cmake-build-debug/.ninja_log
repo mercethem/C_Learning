@@ -1,0 +1,26 @@
+# ninja log v5
+4	53	7199079484259757	CMakeFiles/handle.dir/studentlist.c.obj	706845c0c87e3e64
+2	47	7199079484208633	CMakeFiles/handle.dir/main.c.obj	c0f1d88ef734bcbf
+66	137	7199067498860418	handle.exe	570d4d0f6d200c28
+1	53	7199082240890920	CMakeFiles/handle.dir/main.c.obj	c0f1d88ef734bcbf
+4	58	7199082240940986	CMakeFiles/handle.dir/studentlist.c.obj	706845c0c87e3e64
+9	63	7199082240991432	CMakeFiles/handle.dir/student.c.obj	24399e7c404a68ba
+5	78	7199082241142017	CMakeFiles/handle.dir/date.c.obj	777b20af36d11b25
+7	740	7199082247761538	CMakeFiles/handle.dir/mylibrary.c.obj	d95e21b003be0bdf
+2	59	7199082675008882	CMakeFiles/handle.dir/main.c.obj	c0f1d88ef734bcbf
+59	116	7199082675533527	handle.exe	97cb916e4a1e2d73
+2	49	7199082952475025	CMakeFiles/handle.dir/main.c.obj	c0f1d88ef734bcbf
+5	55	7199082952535280	CMakeFiles/handle.dir/studentlist.c.obj	706845c0c87e3e64
+55	116	7199082953105069	handle.exe	97cb916e4a1e2d73
+2	48	7199083704165393	CMakeFiles/handle.dir/main.c.obj	c0f1d88ef734bcbf
+48	110	7199083704750186	handle.exe	97cb916e4a1e2d73
+2	50	7199084172055456	CMakeFiles/handle.dir/main.c.obj	c0f1d88ef734bcbf
+50	113	7199084172655917	handle.exe	97cb916e4a1e2d73
+2	51	7199084887738074	CMakeFiles/handle.dir/main.c.obj	c0f1d88ef734bcbf
+51	112	7199084888309988	handle.exe	97cb916e4a1e2d73
+2	50	7199085257566381	CMakeFiles/handle.dir/main.c.obj	c0f1d88ef734bcbf
+50	112	7199085258157676	handle.exe	97cb916e4a1e2d73
+2	56	7199085965255318	CMakeFiles/handle.dir/main.c.obj	c0f1d88ef734bcbf
+56	121	7199085965873468	handle.exe	97cb916e4a1e2d73
+2	48	7199086101452886	CMakeFiles/handle.dir/main.c.obj	c0f1d88ef734bcbf
+48	114	7199086102083915	handle.exe	97cb916e4a1e2d73
