@@ -57,25 +57,27 @@ int main()
 //    print_list();
 
 
-//
-//    size_t n;
-//    Student s;
-//    printf("How many students add to list :");
-//    scanf("%zu", &n);
-//
-//    for (size_t i = 0;  i < n; ++i)
-//    {
-//        set_student_random(&s);
-//        push_front(&s);
-//    }
-//
-//    while (!is_empty()){
-//        printf("There are %zu students in the list\n", get_size());
-//        print_list();
-//        _getch();
-//        system("cls");
-//        pop_front();
-//    }
+
+    size_t n;
+    Student s;
+    printf("How many students add to list :");
+    scanf("%zu", &n);
+
+    ListHandle list =  create_list();
+
+    for (size_t i = 0;  i < n; ++i)
+    {
+        set_student_random(&s);
+        push_front(list, &s);
+    }
+
+    while (!is_empty(list)){
+        printf("There are %zu students in the list\n", get_size(list));
+        print_list(list);
+        _getch();
+        system("cls");
+        pop_front(list);
+    }
 
 
     return 0;
