@@ -5,6 +5,11 @@
 #include "studentlist.h"
 #include "mylibrary.h"
 
+
+#define         NLIST       1000
+
+
+
 int main()
 {
 
@@ -16,27 +21,27 @@ int main()
 //        |
 //        V
 
-    Student s;
-    randomize();
-    ListHandle list = create_list();
-    for (int i = 0; i < 10; ++i)
-    {
-        set_student_random(&s);
-        print_student(&s);
-        push_front(list,&s);
-    }
-    printf("\n");
-
-    printf("List have got %zu students\n", get_size(list) );
-    print_list(list);
-
-    make_empty(list);
-
-    if(is_empty(list))
-        printf("List is empty!\n");
-
-
-
+//    Student s;
+//    randomize();
+//    ListHandle list = create_list();
+//    for (int i = 0; i < 10; ++i)
+//    {
+//        set_student_random(&s);
+//        print_student(&s);
+//        push_front(list,&s);
+//    }
+//    printf("\n");
+//
+//    printf("List have got %zu students\n", get_size(list) );
+//    print_list(list);
+//
+//    make_empty(list);
+//
+//    if(is_empty(list))
+//        printf("List is empty!\n");
+//
+//
+//
 
 
 //    size_t n;
@@ -78,9 +83,37 @@ int main()
 //        system("cls");
 //        pop_front(list);
 //    }
-//
-//
 
+    ListHandle a[NLIST];
+
+    for (int i = 0; i < NLIST; ++i)
+    {
+        a[i] = create_list();
+    }
+    randomize();
+    Student s;
+
+    for (int i = 0; i < NLIST; ++i)
+    {
+        int n = rand() % 11 + 10;
+        while (n--){
+            set_student_random(&s);
+            push_front(a[i], &s);
+        }
+    }
+
+    for (int i = 0; i < NLIST; ++i)
+    {
+        printf("%d. list have got %zu student.\n", i + 1, get_size(a[i]));
+        print_list(a[i]);
+        (void)getchar();
+        system("cls");
+    }
+
+    for (int i = 0; i < NLIST ; ++i)
+    {
+        destroy_list(a[i]);
+    }
 
 
     return 0;
